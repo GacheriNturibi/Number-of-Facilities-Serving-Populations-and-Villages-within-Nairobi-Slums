@@ -1,0 +1,1661 @@
+﻿X,Y,FID,village,settlement,facility_type,facility_name,managing_organization,donor,altitude
+36.79299333,-1.311508333,1,Mashimoni,Kibera,Health facility,Frepals Nursing home,NGO,None,1705.1
+36.77618532,-1.30881666,2,Ayany estate,Kibera,Health facility,Al khair health centre,Other Community group,NaN,1763
+36.79669333,-1.315076667,3,Laini saba,Kibera,Health facility,AMUA Family health Clinic,NGO,N/A,1657.4
+36.77498306,-1.31102976,4,Kianda,Kibera,Health facility,Ant-Hill medical clinic,Individual (eg business owner),Dr.fred ochenge,1755
+36.77426208,-1.310616466,5,Ayany estate,Kibera,Health facility,Ayany dental care,Individual (eg business owner),Individual,1752
+36.77871167,-1.314155,6,Olympic estate,Kibera,Health facility,Beyond Zero,County government,NA,1768.4
+36.78228901,-1.31128912,7,Karanja estate,Kibera,Health facility,Beyond zero,National government,Margret kenyatta,1740
+36.79155667,-1.314406667,8,Lindi,Kibera,Health facility,Beyond zero,Community group,None,1741.1
+36.77659333,-1.317508333,9,Raila,Kibera,Health facility,Beyond zero,Community group National government,Nys,1733.7
+36.77601833,-1.316151667,10,soweto east,Kibera,Health facility,Beyond zero Dispensary,NGO,N/A,1756.5
+36.77209244,-1.30761168,11,Kianda,Kibera,Health facility,Beyonn zero,County government,County government,1764
+36.77398021,-1.31044631,12,Ayany estate,Kibera,Health facility,Bliss,Community group Individual (eg business owner),NaN,1766
+36.77884667,-1.314268333,13,Olympic estate,Kibera,Health facility,Carolina for kibera,NGO,NA,1779.6
+36.77934333,-1.312481667,14,Olympic estate,Kibera,Health facility,CFK maternity home,NGO,CFK,1771.8
+36.77381237,-1.31102984,15,Kianda,Kibera,Health facility,Chandaria,NGO,Chandaria,1772
+36.78798333,-1.307118333,16,D.C village,Kibera,Health facility,Chemi Chemi ya Uzima,Community group,NaN,1752.6
+36.786685,-1.306883333,17,D.C village,Kibera,Health facility,Chemistry,Individual (eg business owner),NaN,1801.5
+36.78622667,-1.307525,18,D.C village,Kibera,Health facility,Chemistry,Individual (eg business owner),NaN,1762.8
+36.79354909,-1.3117381,19,Laini saba,Kibera,Health facility,FHOK-FAMILY CARE MEDICAL CENTER,Individual (eg business owner),NaN,1697
+36.793995,-1.312125,20,Lindi,Kibera,Health facility,Fhok-Family Care Medical Centre,Individual (eg business owner),None,1794.6
+36.77949667,-1.313996667,21,Olympic estate,Kibera,Health facility,KEMRI/CDC program,NGO,CDC,1783
+36.78815333,-1.306065,22,D.C village,Kibera,Health facility,Kibera Health Centre,County government,Government,1749.6
+36.77396284,-1.310411235,23,Ayany estate,Kibera,Health facility,Kinani medical and dental clinic,Individual (eg business owner),Individual,1754
+36.79001167,-1.313258333,24,Lindi,Kibera,Health facility,Kisembo Health Services,Individual (eg business owner),Kisembo,1729.3
+36.77998333,-1.314498333,25,Olympic estate,Kibera,Health facility,Lea Toto kibera,NGO,USAID,1769.3
+36.78501667,-1.308625,26,Makina,Kibera,Health facility,Makina clinic,Community group,N/A,1770.4
+36.78798844,-1.311464748,27,Lindi,Kibera,Health facility,Nakhayo clinc,Individual (eg business owner),NaN,1713.40336
+36.788155,-1.311648333,28,Kambi muru,Kibera,Health facility,Nakhayo medical clinic,Individual (eg business owner),N/A,1776.2
+36.77855167,-1.312061667,29,Olympic estate,Kibera,Health facility,Nebtim medical center,Individual (eg business owner),N/A,1772.7
+36.78075,-1.30776,30,Toi Market,Kibera,Health facility,Radmed Kibera Ultrasound Center,Individual (eg business owner),NaN,1759.1
+36.77532486,-1.31107897,31,Kianda,Kibera,Health facility,Rosade pharmacy and clinic,Individual (eg business owner),NaN,1731
+36.77657,-1.314496667,32,soweto west,Kibera,Health facility,Senye Clinic,Individual (eg business owner),None,1629
+36.79654833,-1.318251667,33,Silanga,Kibera,Health facility,Shofco,Community group,NaN,1699.6
+36.78284667,-1.316853333,34,Gatwekera,Kibera,Health facility,Shofco Satelit Clinic,Individual (eg business owner),Ken odede,1787.2
+36.796085,-1.317265,35,Silanga,Kibera,Health facility,Silanga dispensary,County government,Msf Belgium,1720.9
+36.78192,-1.31009,36,soweto east,Kibera,Health facility,Silanga health,County government,County,1810.8
+36.796375,-1.31463,37,Laini saba,Kibera,Health facility,Sprout Medical Clinic,Individual (eg business owner),NaN,1712.2
+36.79817,-1.311865,38,Laini saba,Kibera,Health facility,St Francis Dental Clinic,Individual (eg business owner),NaN,1717.4
+36.77440254,-1.31075834,39,Kianda,Kibera,Health facility,Swop clinic,Individual (eg business owner),NaN,1759
+36.77321585,-1.30869217,40,Kianda,Kibera,Health facility,Tumaini medical,Individual (eg business owner),NaN,1768
+36.77285811,-1.3078951,41,Ayany estate,Kibera,Health facility,Ushirika medical clinic,NGO County government,Government,1773
+36.79202628,-1.314761441,42,Lindi,Kibera,Health facility,Vimacare clinic,Individual (eg business owner),Victor omondi,1706.030777
+36.78102667,-1.307621667,43,Toi Market,Kibera,Health facility,Vostrum Clinic,Community group,NaN,1753.6
+36.7843818,-1.312960298,44,Kisumu ndogo,Kibera,Health facility,Mercilin afya centre,Individual (eg business owner),NaN,1730
+36.77631667,-1.314473333,45,soweto west,Kibera,Health facility,Senye Clinic,Individual (eg business owner),NA,1773.2
+36.78360633,-1.31196678,46,Karanja estate,Kibera,Health facility,St mary's medical clinic,Individual (eg business owner),NaN,1718
+36.78019,-1.316215,47,Gatwekera,Kibera,Health facility,Tabitha Medical  clinic,Individual (eg business owner),NaN,1720.6
+36.7851,-1.311338333,48,Karanja estate,Kibera,Health facility,VIPAWA medical  services,Individual (eg business owner),N/A,1783
+36.78658833,-1.311461667,49,Kambi muru,Kibera,Water point,NaN,Community group,Yusuf Idris,1779.5
+36.79851833,-1.318551667,50,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1662.9
+36.79915,-1.31822,51,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1662.3
+36.79869,-1.317993333,52,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1684.3
+36.79822167,-1.318051667,53,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1659.1
+36.79713667,-1.318371667,54,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1663
+36.79913333,-1.317935,55,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1662.4
+36.79776667,-1.317473333,56,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1698.1
+36.78592833,-1.306655,57,D.C village,Kibera,Water point,NaN,Individual (eg business owner),NaN,1759.5
+36.78479,-1.306055,58,D.C village,Kibera,Water point,NaN,Community group,NaN,1784.2
+36.78174485,-1.310306839,59,Makina,Kibera,Water point,NaN,Community group,Huairou Commission,1733
+36.7816356,-1.3103354,60,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Dan,1731.599976
+36.78158833,-1.310226667,61,Ayany estate,Kibera,Water point,NaN,Individual (eg business owner),Nys,1775.6
+36.78177833,-1.31011,62,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Mkamba,2186.5
+36.78178667,-1.310273333,63,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Paul sichenga,1737.1
+36.78166333,-1.310303333,64,Makina,Kibera,Water point,NaN,Individual (eg business owner),Karanja,1735.6
+36.7794257,-1.3130295,65,soweto west,Kibera,Water point,NaN,Individual (eg business owner),Caroline Adhiambo,0
+36.77777667,-1.314736667,66,Olympic estate,Kibera,Water point,NaN,Other,AKEKOK,1780.6
+36.77700167,-1.314063333,67,Olympic estate,Kibera,Water point,NaN,Individual (eg business owner),NA,1751.9
+36.78662667,-1.311615,68,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),Maina,1789.2
+36.78365167,-1.311715,69,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),Wee care daycare,1760.2
+36.78698667,-1.306978333,70,D.C village,Kibera,Water point,NaN,Individual (eg business owner),William Morekerwa,1733.1
+36.78788167,-1.307091667,71,D.C village,Kibera,Water point,NaN,Individual (eg business owner),John,1774.3
+36.78634667,-1.306976667,72,D.C village,Kibera,Water point,NaN,Individual (eg business owner),Makamu alumasah,1622.8
+36.78588333,-1.307013333,73,D.C village,Kibera,Water point,NaN,Community group,Young tusk youths,1764.7
+36.79480333,-1.317241667,74,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1719.4
+36.79476833,-1.316985,75,Silanga,Kibera,Water point,NaN,Community group,NaN,1737.8
+36.79495333,-1.316878333,76,Silanga,Kibera,Water point,NaN,Community group,NaN,1730.4
+36.796075,-1.317358333,77,Silanga,Kibera,Water point,NaN,Community group,NaN,1666.4
+36.79647833,-1.317798333,78,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1708
+36.787755,-1.306978333,79,D.C village,Kibera,Water point,NaN,Individual (eg business owner),NaN,1780
+36.78893667,-1.307291667,80,D.C village,Kibera,Water point,NaN,Individual (eg business owner),NaN,1760.8
+36.78520262,-1.31114198,81,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),Donated by Mca Babu Adams,1720
+36.78314868,-1.31165674,82,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner) County government,NaN,1740
+36.776835,-1.311753333,83,Olympic estate,Kibera,Water point,NaN,Individual (eg business owner),Huairou Commission,1766.6
+36.78743105,-1.314070229,84,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner) Community group,NaN,1715
+36.77628539,-1.308367057,85,Ayany estate,Kibera,Water point,NaN,County government,Ayany primary water,1751
+36.798965,-1.314705,86,soweto east,Kibera,Water point,NaN,Individual (eg business owner),City County,1692.4
+36.78674167,-1.310526667,87,Makina,Kibera,Water point,NaN,County government,HON.KENNETH O.OKOTH,1776.6
+36.80161833,-1.315653333,88,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1683.8
+36.79884,-1.315336667,89,soweto east,Kibera,Water point,NaN,Community group,NAIROBI CITY COUNTY,1715.4
+36.79906833,-1.315515,90,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1715
+36.79952333,-1.315515,91,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1714.5
+36.79964,-1.314436667,92,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1707.9
+36.784175,-1.307303333,93,Makina,Kibera,Water point,NaN,Community group,Madam Krebs,1752.1
+36.79943667,-1.314236667,94,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1708.3
+36.78308,-1.307061667,95,Makina,Kibera,Water point,NaN,Individual (eg business owner),Monica mongina,1761.9
+36.77831833,-1.312185,96,Olympic estate,Kibera,Water point,NaN,Individual (eg business owner),MCA Lawi,1774.3
+36.78228833,-1.307915,97,Makina,Kibera,Water point,NaN,Individual (eg business owner),Simon njuguna,1757.7
+36.78242333,-1.308743333,98,Makina,Kibera,Water point,NaN,Individual (eg business owner),Moses Murithi,1777.4
+36.7992,-1.314105,99,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1708.2
+36.799015,-1.314595,100,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1699.3
+36.79924667,-1.314845,101,soweto east,Kibera,Water point,NaN,Individual (eg business owner),INDIVIDUAL,1699.1
+36.79525167,-1.318146667,102,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1674.7
+36.79539833,-1.318203333,103,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1673.4
+36.7900091,-1.314880639,104,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Mama ken,1683.063644
+36.79186831,-1.315698173,105,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Ali,1697.631048
+36.791485,-1.314886667,106,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Baken,1740.6
+36.79266833,-1.31575,107,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Raphael,1730.2
+36.79310167,-1.316405,108,Lindi,Kibera,Water point,NaN,Individual (eg business owner),County government,1721.5
+36.79320167,-1.317273333,109,Lindi,Kibera,Water point,NaN,Individual (eg business owner),George,1721
+36.79430167,-1.316191667,110,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Chacha,1712.1
+36.793525,-1.315173333,111,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Mustach youth group,1695.8
+36.79362667,-1.31507,112,Lindi,Kibera,Water point,NaN,Individual (eg business owner),John,1686.7
+36.788765,-1.309135,113,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),NaN,1755.4
+36.78809833,-1.309746667,114,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),NaN,1762.8
+36.78725122,-1.30922705,115,Makongeni,Kibera,Water point,NaN,Individual (eg business owner) County government,Kajohn's nyota,1730
+36.78854168,-1.30925161,116,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),Shower base,1701
+36.78873551,-1.30897281,117,Makongeni,Kibera,Water point,NaN,County government,Mca Magembe,1682
+36.78891958,-1.30888812,118,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),Kwa Mkisii,1727
+36.78818193,-1.31007747,119,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),Kisii,1698
+36.78771131,-1.31102548,120,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),Kwa Sammy,1710
+36.78673359,-1.31284747,121,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),Kwa Musa Water Point,1731
+36.78746167,-1.31114,122,Kambi muru,Kibera,Water point,NaN,Community group,N/A,1743.4
+36.78691667,-1.309475,123,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),Muya,1724.2
+36.78762667,-1.31038,124,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),N/A,1748.2
+36.78759667,-1.311123333,125,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),N/A,1751.7
+36.78738667,-1.313361667,126,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),Njoroge maina,1741
+36.78757333,-1.314051667,127,Kambi muru,Kibera,Water point,NaN,Community group,N/A,1740.9
+36.79022833,-1.312905,128,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),N/A,1722.6
+36.78957447,-1.31288595,129,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1735
+36.78953743,-1.31291698,130,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),Base Ya Maji,1727
+36.78949447,-1.3128896,131,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1719
+36.78627333,-1.308903333,132,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),NaN,1741.1
+36.79005,-1.310330833,133,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),Ken,1731
+36.78777833,-1.310823333,134,Makongeni,Kibera,Water point,NaN,Community group,Masjid noor,1747.8
+36.78737667,-1.311115,135,Kambi muru,Kibera,Water point,NaN,Community group,Youth Reform Self Help Group,1760.1
+36.78725833,-1.312363333,136,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1750.5
+36.78782167,-1.310368333,137,Makongeni,Kibera,Water point,NaN,Individual (eg business owner),N/A,1768.5
+36.77561167,-1.315788333,138,soweto west,Kibera,Water point,NaN,Community group,NA,1734.5
+36.77661833,-1.314628333,139,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1738.9
+36.77620333,-1.315086667,140,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1744.8
+36.77608333,-1.315161667,141,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1744.9
+36.776005,-1.31509,142,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1745.4
+36.77571833,-1.314815,143,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1745.5
+36.77556333,-1.314645,144,soweto west,Kibera,Water point,NaN,National government,NYS,1745.3
+36.77610667,-1.314193333,145,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1745.7
+36.776755,-1.314711667,146,soweto west,Kibera,Water point,NaN,Individual (eg business owner),NA,1746.1
+36.787985,-1.310913333,147,Makongeni,Kibera,Water point,NaN,Community group,NaN,1752.6
+36.78691833,-1.314556667,148,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1739.1
+36.78709167,-1.314233333,149,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1738.4
+36.78937167,-1.311215,150,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1757.6
+36.78697333,-1.31216,151,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1769.6
+36.78879,-1.311856667,152,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1736.1
+36.78763333,-1.311423333,153,Kambi muru,Kibera,Water point,NaN,Community group,N/A,1746.9
+36.78601167,-1.31236,154,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),N/A,1742.4
+36.78935,-1.311163333,155,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),N/A,1701.7
+36.78870333,-1.312538333,156,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),N/A,1699.1
+36.7736705,-1.31035157,157,Kianda,Kibera,Water point,NaN,NGO,NaN,1754
+36.796625,-1.316961667,158,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1733
+36.79817833,-1.317421667,159,Silanga,Kibera,Water point,NaN,Individual (eg business owner),Mwangi,1729.4
+36.79064,-1.313423333,160,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1734.15
+36.79286944,-1.313161667,161,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1721.1
+36.79894833,-1.317736667,162,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1732.2
+36.79276,-1.3126325,163,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1729.45
+36.79324083,-1.311730833,164,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),Frepals,1731.45
+36.79069667,-1.310855,165,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),NaN,1737.8
+36.78906611,-1.311853889,166,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1731.466667
+36.78932333,-1.3125625,167,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1729.4
+36.78994833,-1.311763333,168,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1716.65
+36.79018667,-1.312824167,169,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Jidi,1716.35
+36.79224542,-1.314862917,170,Lindi,Kibera,Water point,NaN,Individual (eg business owner),John,1724.025
+36.78784278,-1.313974444,171,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1714.6
+36.79838833,-1.315371667,172,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1704.4
+36.798405,-1.315445,173,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1704.2
+36.79767,-1.31447,174,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1748.6
+36.79794833,-1.314728333,175,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1728
+36.79826667,-1.314216667,176,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1727.1
+36.79845167,-1.31411,177,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1727.2
+36.79887833,-1.31425,178,soweto east,Kibera,Water point,NaN,Community group,ATHI WATER,1738.4
+36.79816667,-1.314166667,179,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1733.7
+36.798805,-1.314028333,180,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1734.6
+36.79885167,-1.314063333,181,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1734.5
+36.79885833,-1.313465,182,soweto east,Kibera,Water point,NaN,Individual (eg business owner),INDIVIDUAL,1734.2
+36.79868167,-1.313288333,183,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1734.2
+36.79813833,-1.313371667,184,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1777.1
+36.800345,-1.31471,185,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1698.2
+36.80029167,-1.314698333,186,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1698
+36.80127333,-1.3143,187,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1712.8
+36.80126167,-1.31431,188,soweto east,Kibera,Water point,NaN,Community group,LANGATA MP- HON. KORIR,1712.2
+36.799315,-1.313851667,189,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1724.2
+36.79974167,-1.313391667,190,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1724.1
+36.799795,-1.313351667,191,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1724
+36.79936667,-1.312531667,192,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1733.6
+36.79860667,-1.3131,193,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1712.2
+36.79903833,-1.313086667,194,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1714.4
+36.79143133,-1.313102257,195,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Amedi,1697.476136
+36.79253769,-1.311806352,196,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),Ken,1706.390019
+36.7895678,-1.310989701,197,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),NaN,1719.264389
+36.78974477,-1.312059942,198,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1710.352952
+36.79961,-1.317143333,199,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1704.8
+36.79958333,-1.316671667,200,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1704.7
+36.79926833,-1.316421667,201,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1705.7
+36.799055,-1.316296667,202,Silanga,Kibera,Water point,NaN,Individual (eg business owner),Waititus,1718.8
+36.79890833,-1.316143333,203,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1706
+36.79875167,-1.31648,204,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1685.7
+36.79920333,-1.316686667,205,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1706.7
+36.79900167,-1.316828333,206,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1714.2
+36.79803833,-1.31652,207,Silanga,Kibera,Water point,NaN,Individual (eg business owner),5,1708.2
+36.79767,-1.31652,208,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1693.5
+36.79731667,-1.316913333,209,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1694
+36.77845667,-1.315418333,210,soweto west,Kibera,Water point,NaN,Community group,N/A,1760.2
+36.79609167,-1.316758333,211,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1734.4
+36.79636667,-1.316303333,212,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1708.7
+36.796525,-1.315903333,213,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1706.7
+36.796515,-1.315795,214,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1706.8
+36.77699,-1.31494,215,soweto west,Kibera,Water point,NaN,Individual (eg business owner),N/A,1791.6
+36.77623,-1.316253333,216,soweto east,Kibera,Water point,NaN,Community group,N/A,1756.2
+36.79556,-1.315651667,217,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1709.8
+36.77838167,-1.31601,218,soweto west,Kibera,Water point,NaN,Individual (eg business owner),N/A,1704.6
+36.79578667,-1.315655,219,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1710.1
+36.79567,-1.315561667,220,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1690.3
+36.777975,-1.317785,221,soweto east,Kibera,Water point,NaN,Individual (eg business owner),Plan International,1724.9
+36.77696167,-1.31739,222,Raila,Kibera,Water point,NaN,Individual (eg business owner),N/A,1730.3
+36.77577,-1.317268333,223,Raila,Kibera,Water point,NaN,Individual (eg business owner),Athi Water Works Development Agency,1728.3
+36.77482833,-1.31693,224,Raila,Kibera,Water point,NaN,Individual (eg business owner),None,1739.8
+36.79553,-1.314996667,225,Silanga,Kibera,Water point,NaN,Individual (eg business owner),NaN,1691.8
+36.79087667,-1.313483333,226,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),None,1773.1
+36.79308333,-1.313648333,227,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Abukulbobogalglo,1665
+36.79384667,-1.3141,228,Lindi,Kibera,Water point,NaN,Community group,None,1693.8
+36.79384,-1.314133333,229,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Ben,1694.4
+36.79254833,-1.312306667,230,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),Mama msenya,1749.2
+36.79086,-1.31117,231,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),Ken,1706.4
+36.78913,-1.311148333,232,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),None,1728.9
+36.78840667,-1.311241667,233,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Abdul Ahab,1755.7
+36.78995167,-1.31191,234,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Robert,1728.7
+36.79171667,-1.314165,235,Lindi,Kibera,Water point,NaN,Individual (eg business owner),George,1719.1
+36.77267379,-1.309131612,236,Kianda,Kibera,Water point,NaN,Community group,Global alliance for Africa,1751
+36.77298333,-1.310370122,237,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1753
+36.77449862,-1.311518401,238,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1752
+36.77331132,-1.311526322,239,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1739
+36.77323257,-1.30934842,240,Kianda,Kibera,Water point,NaN,NGO,NaN,1794
+36.79528566,-1.31338915,241,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1688
+36.79642783,-1.31487138,242,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),Kwa Njoroge,1682
+36.79700513,-1.31517594,243,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),Dhobi Water Point,1695
+36.79345333,-1.311876667,244,Laini saba,Kibera,Water point,NaN,Community group,Voice of Africa youths,1726.8
+36.79372333,-1.31188,245,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1722.2
+36.794295,-1.312856667,246,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1725.5
+36.79411333,-1.313043333,247,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1727.1
+36.79437333,-1.313486667,248,Laini saba,Kibera,Water point,NaN,Community group,NaN,1723.5
+36.79425667,-1.313745,249,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1702.3
+36.79426167,-1.313736667,250,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1702.4
+36.795275,-1.31381,251,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1765.8
+36.79717489,-1.31529142,252,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1672
+36.7975,-1.315496667,253,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),N/A,1628.3
+36.79647339,-1.31491816,254,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),Kwa willy Water Point,1691
+36.79620616,-1.31450629,255,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1685
+36.79624523,-1.31447972,256,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1683
+36.79637369,-1.31312024,257,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),Kwa Bosco,1682
+36.79710371,-1.3133417,258,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1712
+36.79706394,-1.31324637,259,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1703
+36.79755803,-1.31420114,260,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),Kwa John,1692
+36.79671167,-1.313351667,261,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1672.2
+36.796735,-1.31336,262,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1671.7
+36.79674,-1.313245,263,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),N/A,1671.6
+36.797785,-1.314011667,264,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),N/A,1712.5
+36.79767833,-1.314253333,265,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),N/a,1716.1
+36.79392333,-1.31236,266,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1710
+36.794555,-1.31346,267,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1697.7
+36.79643,-1.313965,268,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1730.8
+36.79662,-1.313933333,269,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1730.6
+36.79606833,-1.312891667,270,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1730.3
+36.79737167,-1.314606667,271,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1667.8
+36.797305,-1.314746667,272,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1667.7
+36.78110333,-1.307048333,273,Toi Market,Kibera,Water point,NaN,Community group,N/A,1754.7
+36.77924,-1.307551667,274,Toi Market,Kibera,Water point,NaN,Individual (eg business owner),NaN,1767.9
+36.78171833,-1.306821667,275,Toi Market,Kibera,Water point,NaN,Community group,N/A,1824.2
+36.77461269,-1.311995625,276,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1740
+36.77462015,-1.312054088,277,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1736
+36.77514302,-1.31199596,278,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1729
+36.77565532,-1.312865918,279,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1690
+36.79777167,-1.312435,280,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),N/A,1733.5
+36.79892667,-1.312173333,281,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),N/A,1731.2
+36.79749801,-1.3147821,282,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1689
+36.79779892,-1.31227881,283,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1692
+36.79874661,-1.31221154,284,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1701
+36.77439837,-1.31067058,285,Kianda,Kibera,Water point,NaN,Individual (eg business owner),NaN,1746
+36.77483592,-1.3113305,286,Kianda,Kibera,Water point,NaN,Individual (eg business owner),NaN,1767
+36.77965667,-1.318135,287,Raila,Kibera,Water point,NaN,Community group,None,1778.3
+36.77686833,-1.31656,288,soweto west,Kibera,Water point,NaN,Individual (eg business owner),N/A,1762.3
+36.77630333,-1.316556667,289,soweto east,Kibera,Water point,NaN,Other,Beyond zero,1762
+36.77604333,-1.31651,290,soweto east,Kibera,Water point,NaN,Individual (eg business owner),N/A,1762
+36.77302667,-1.311081667,291,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1747.9
+36.77241333,-1.309216667,292,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1768.9
+36.77228667,-1.308815,293,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1769
+36.77216333,-1.309376667,294,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Mama Ann,1755.4
+36.773075,-1.309545,295,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1770.1
+36.772975,-1.309941667,296,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1772
+36.77437667,-1.310268333,297,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1735.1
+36.774435,-1.309863333,298,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1741.5
+36.77313,-1.310536667,299,Kianda,Kibera,Water point,NaN,Individual (eg business owner),N/A,1741.4
+36.77318167,-1.30903,300,Kianda,Kibera,Water point,NaN,Community group,Ushirika,1799.4
+36.79771667,-1.312525,301,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1711.8
+36.79801167,-1.311926667,302,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1713.5
+36.793775,-1.311746667,303,soweto east,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1732.9
+36.79674833,-1.315441667,304,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1705.3
+36.796825,-1.31559,305,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1715
+36.79752833,-1.315235,306,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1725
+36.79683,-1.313668333,307,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1713.9
+36.79152956,-1.312290448,308,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1698.026229
+36.79205071,-1.312390906,309,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1704.802242
+36.79346427,-1.315565992,310,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Uchumi ndogo,1706.23049
+36.79368749,-1.315558586,311,Lindi,Kibera,Water point,NaN,Community group,MCA,1717.888746
+36.79455031,-1.315443757,312,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Kwa duka,1689.092039
+36.79537132,-1.315271126,313,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Fredy,1697.421417
+36.7954483,-1.315009701,314,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Sango,1689.830372
+36.79413581,-1.313031501,315,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1693.415132
+36.79342333,-1.31235,316,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1709.5
+36.79528167,-1.31357,317,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1732.8
+36.79736167,-1.313291667,318,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1729.1
+36.797815,-1.314603333,319,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1723.3
+36.797505,-1.31273,320,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1692.2
+36.79882,-1.312563333,321,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1718.3
+36.79845333,-1.312776667,322,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1712.9
+36.79831167,-1.313055,323,Laini saba,Kibera,Water point,NaN,Community group,UMANDE TRUST,1712.4
+36.79795833,-1.313305,324,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1711.9
+36.79567167,-1.312796667,325,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1722.4
+36.79546333,-1.312841667,326,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1722.2
+36.79562167,-1.313498333,327,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1714
+36.79577333,-1.313948333,328,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NaN,1713.2
+36.79157833,-1.312595,329,Lindi,Kibera,Water point,NaN,Individual (eg business owner),None,1759.3
+36.79295333,-1.314775,330,Lindi,Kibera,Water point,NaN,Individual (eg business owner),None,1625.6
+36.792695,-1.315288333,331,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Mkamba,1759.3
+36.79375,-1.31561,332,Lindi,Kibera,Water point,NaN,Individual (eg business owner),None,1736.3
+36.79277333,-1.314550333,333,Lindi,Kibera,Water point,NaN,Individual (eg business owner),NaN,1760.88
+36.79469167,-1.315621667,334,Lindi,Kibera,Water point,NaN,Individual (eg business owner),None,1731.1
+36.79434667,-1.312816667,335,Lindi,Kibera,Water point,NaN,Community group,None,1707.8
+36.79517889,-1.315492222,336,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Fred,1717.266667
+36.79570278,-1.314755556,337,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Mark,1719.9
+36.79214,-1.317105,338,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Otieno,1673.5
+36.792945,-1.317738333,339,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Obwaka,2459.8
+36.79363167,-1.317981667,340,Lindi,Kibera,Water point,NaN,Individual (eg business owner),George,1780.6
+36.79366,-1.318398333,341,Lindi,Kibera,Water point,NaN,Community group,None,1645
+36.79185,-1.314711667,342,Lindi,Kibera,Water point,NaN,Community group,Lindi Mosque,1733.9
+36.7942125,-1.312326667,343,Lindi,Kibera,Water point,NaN,Community group,NaN,1724.3
+36.79407556,-1.312418333,344,Lindi,Kibera,Water point,NaN,Community group,NaN,1737.766667
+36.79117056,-1.316306111,345,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Kefa,1692.966667
+36.79257292,-1.317372917,346,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Baba Maina,1695.45
+36.79312167,-1.317743333,347,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Unknown,1694.85
+36.79338583,-1.31789875,348,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Unknown,1715.925
+36.79401667,-1.317523333,349,Lindi,Kibera,Water point,NaN,Community group,Savo Foundation,1702.45
+36.79202981,-1.313353185,350,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Lukasa,1693.558136
+36.77302642,-1.310440782,351,Kianda,Kibera,Water point,NaN,Individual (eg business owner),Individual,1754
+36.77479466,-1.3111579,352,Kianda,Kibera,Water point,NaN,NGO,Shofco,1777
+36.77902333,-1.314986667,353,Olympic estate,Kibera,Water point,NaN,Individual (eg business owner),NA,1765.5
+36.77710833,-1.31425,354,Olympic estate,Kibera,Water point,NaN,Individual (eg business owner),Huairou Commission,1752
+36.797095,-1.31726,355,Silanga,Kibera,Water point,NaN,National government,Government of Kenya,1709.2
+36.78594167,-1.308268333,356,D.C village,Kibera,Water point,NaN,NGO,Shofco,1760.8
+36.7867103,-1.31150955,357,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),Mashujaa,1743
+36.78231908,-1.31156446,358,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),NaN,1708
+36.80080167,-1.314545,359,soweto east,Kibera,Water point,NaN,NGO,SHOFCO,1692.8
+36.77864333,-1.312118333,360,Olympic estate,Kibera,Water point,NaN,NGO,N/A,1773.1
+36.78381233,-1.314334176,361,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Mary Adinda,1720
+36.78557667,-1.306598333,362,D.C village,Kibera,Water point,NaN,Community group,NaN,1750.6
+36.786464,-1.307961,363, , ,Water point,NaN,Individual (eg business owner),MAJI KAMBI MURU,0
+36.78181667,-1.309991667,364,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Chalo,1710.5
+36.78170999,-1.310174147,365,Mashimoni,Kibera,Water point,NaN,Individual (eg business owner),Mashimon school,1733.467604
+36.78173513,-1.310273353,366,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Collins omondi,1723
+36.78409667,-1.306201667,367,D.C village,Kibera,Water point,NaN,Community group,Carribian youth group,1750.8
+36.78590333,-1.306726667,368,D.C village,Kibera,Water point,NaN,No one,Unknown personel,1741.5
+36.78541333,-1.30581,369,D.C village,Kibera,Water point,NaN,Community group,Jeddah mosque,1757.3
+36.78563096,-1.313763829,370,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1717
+36.78584713,-1.314004515,371,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1708
+36.77207834,-1.307630078,372,Ayany estate,Kibera,Water point,NaN,County government,County government,1759
+36.77813333,-1.313421667,373,Olympic estate,Kibera,Local organization/ NGO office,ROCK,Missing Values,NaN,1732.7
+36.799775,-1.313391667,374,soweto east,Kibera,Water point,NaN,Other,NAIROBI CITY COUNTY,1720.7
+36.80089167,-1.315811667,375,soweto east,Kibera,Water point,NaN,No one,JAMII USAFI GROUP,1685
+36.79971667,-1.315306667,376,soweto east,Kibera,Water point,NaN,Community group,ATHI WATER,1699.1
+36.78373167,-1.31243,377,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Freddy Mulama,1752
+36.78523833,-1.313815,378,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Freddy shikanda,1740.9
+36.78630167,-1.314245,379,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Akinyi Grace,1749
+36.78492833,-1.313198333,380,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ogues,1758.6
+36.7867,-1.31436,381,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1754.2
+36.78658833,-1.314031667,382,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Peter Samson,1725.9
+36.78563167,-1.313766667,383,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1738.1
+36.78581833,-1.31403,384,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1718.4
+36.78722,-1.314175,385,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1724.9
+36.78682667,-1.314458333,386,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Obila,1740.7
+36.78822333,-1.314103333,387,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1742.1
+36.78856,-1.313586667,388,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1717.1
+36.78653167,-1.313508333,389,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1726.9
+36.78875833,-1.313316667,390,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1709.6
+36.78649667,-1.313511667,391,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Mary achieng Otieno,1728
+36.78596667,-1.313513333,392,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Alfred,1728
+36.78404333,-1.313525,393,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1730.7
+36.789005,-1.313631667,394,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1742.5
+36.78517,-1.313101667,395,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1735.8
+36.78726167,-1.313441667,396,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Jerry odhiambo,1726.7
+36.78651333,-1.313581667,397,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1721.9
+36.78583833,-1.313061667,398,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Delvane,1737.4
+36.78520167,-1.313108333,399,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Ogues,1737
+36.788305,-1.312225,400,Kambi muru,Kibera,Water point,NaN,Individual (eg business owner),NaN,1764.1
+36.79965667,-1.317611667,401,Silanga,Kibera,Water point,NaN,Community group,National gorverment,1723.7
+36.78437,-1.314271667,402,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Mama lucas,1745.4
+36.78814167,-1.315028333,403,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Elamu,1707.6
+36.78831833,-1.314863333,404,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1704.7
+36.78655833,-1.31539,405,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Jack ouma,1730.9
+36.785785,-1.315353333,406,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Osodo,1715.7
+36.78474667,-1.315331667,407,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1725.1
+36.78469167,-1.315618333,408,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Raphael Aluoch,1727.1
+36.784235,-1.314866667,409,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1732.2
+36.78394333,-1.315345,410,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1744
+36.78349333,-1.315855,411,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1721.3
+36.78347333,-1.316453333,412,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Filgona Atieno,1743.9
+36.78300667,-1.316466667,413,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1709.4
+36.78252,-1.316455,414,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1698.6
+36.78255833,-1.314638333,415,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1737.7
+36.78443333,-1.314603333,416,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Jasega,1690.2
+36.78776415,-1.315352242,417,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1675
+36.785025,-1.313673333,418,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Samson,1780.2
+36.78484167,-1.314268333,419,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Jasega,1736.9
+36.785265,-1.31465,420,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1741
+36.78643167,-1.314451667,421,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Moses,1690
+36.78658833,-1.314888333,422,Gatwekera,Kibera,Water point,NaN,Community group,NaN,1727
+36.78646333,-1.314866667,423,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner) Community group,Miale Project Germany,1742.8
+36.7867,-1.314946667,424,Gatwekera,Kibera,Water point,NaN,Community group,Hon.Bernad Okoth (Imran),1714.7
+36.78580333,-1.31505,425,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1726.3
+36.78514,-1.315153333,426,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1790.3
+36.78459,-1.314585,427,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Okeno,1746.8
+36.78435333,-1.315213333,428,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1745.6
+36.7839,-1.314733333,429,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Millicent,1729.7
+36.78323,-1.314915,430,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Rosemary,1736.4
+36.78303333,-1.316193333,431,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Kyalo,1678.7
+36.78286833,-1.316816667,432,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1787
+36.78124167,-1.307201667,433,Toi Market,Kibera,Water point,NaN,Community group,N/A,1753.9
+36.7947,-1.312835,434,Laini saba,Kibera,Water point,NaN,Individual (eg business owner),NAIROBI CITY COUNTY,1743.9
+36.79175527,-1.315001602,435,Lindi,Kibera,Water point,NaN,Individual (eg business owner),Shosh,1701.567124
+36.78362333,-1.313553333,436,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1753
+36.78326667,-1.31443,437,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1754.2
+36.78335333,-1.314326667,438,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1754.3
+36.78198833,-1.314393333,439,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Paul,1743.2
+36.78183667,-1.314321667,440,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1746.9
+36.781945,-1.314618333,441,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1753.8
+36.78137667,-1.315058333,442,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1771.8
+36.78180167,-1.315083333,443,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Mama winny,1771.8
+36.78176333,-1.316006667,444,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1747.3
+36.78100667,-1.316636667,445,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1744.6
+36.78062833,-1.316748333,446,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1743.4
+36.780155,-1.316475,447,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1743.4
+36.78067833,-1.3156,448,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1710.5
+36.78064,-1.315136667,449,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1757.2
+36.77918667,-1.315963333,450,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1751.2
+36.77960667,-1.315506667,451,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1719.9
+36.78153833,-1.314773333,452,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1791.1
+36.78099667,-1.314675,453,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),N/A,1749.1
+36.783245,-1.313665,454,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1766.8
+36.78291,-1.314298333,455,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Nancy,1728.9
+36.78261833,-1.31409,456,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Kyalo,1728.9
+36.78236667,-1.313915,457,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Kyalo,1729
+36.782295,-1.314511667,458,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Samuel,1757.1
+36.78139333,-1.314203333,459,Gatwekera,Kibera,Water point,NaN,Community group,NaN,1743
+36.782415,-1.315745,460,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Rafael,1785.1
+36.78259167,-1.31631,461,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1782.7
+36.780955,-1.316865,462,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1730.5
+36.78043833,-1.315706667,463,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Ken odede,1715.7
+36.78076667,-1.315098333,464,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1708.2
+36.77991833,-1.315618333,465,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Tony,1750.5
+36.78142,-1.315226667,466,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Maria,1747.5
+36.78176833,-1.315516667,467,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Ken Odede,1753.1
+36.7817743,-1.3094671,468,Ayany estate,Kibera,Water point,NaN,Individual (eg business owner),Nairobi city council,1731.599976
+36.78135552,-1.314904187,469,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Rafael,1745
+36.78177704,-1.316019776,470,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1728
+36.78018616,-1.316453204,471,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1714
+36.78023184,-1.315122996,472,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Kairon,1736
+36.77898184,-1.31549377,473,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1740
+36.78703,-1.306925,474,D.C village,Kibera,Water point,NaN,Individual (eg business owner),NaN,1766.3
+36.78548528,-1.312777111,475,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Samuel chacha,1719
+36.78171833,-1.310235,476,Karanja estate,Kibera,Water point,NaN,Community group,Pamoja group,1761
+36.78176,-1.310168333,477,Toi Market,Kibera,Water point,NaN,Community group,NaN,1737
+36.78293106,-1.3109372,478,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),NaN,1732
+36.78270333,-1.310763333,479,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),Mama Clinton,1768
+36.78514052,-1.31178755,480,Karanja estate,Kibera,Water point,NaN,Individual (eg business owner),NaN,1737
+36.78319394,-1.31227974,481,Karanja estate,Kibera,Water point,NaN,Community group,NaN,1718
+36.78447945,-1.313302782,482,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1710
+36.78656747,-1.313543301,483,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1720
+36.78818048,-1.313907537,484,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),Alvin,1703
+36.78883829,-1.312770741,485,Kisumu ndogo,Kibera,Water point,NaN,Individual (eg business owner),NaN,1724
+36.77282852,-1.307877721,486,Ayany estate,Kibera,Water point,NaN,NGO,SHOFCO,1759
+36.77226266,-1.307812803,487,Ayany estate,Kibera,Water point,NaN,Individual (eg business owner),Individual,1747
+36.77321702,-1.308927136,488,Ayany estate,Kibera,Water point,NaN,Individual (eg business owner),Individual,1747
+36.80105333,-1.317446667,489,Silanga,Kibera,Water point,NaN,Community group,Sellina,1715.9
+36.78463753,-1.314787553,490,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1715
+36.78512293,-1.314416192,491,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1713
+36.78276141,-1.31534562,492,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Charles,1721
+36.78324882,-1.313495105,493,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1716
+36.78330246,-1.314450181,494,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Purity jelagat,1727
+36.77911302,-1.315901843,495,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Donald,1726
+36.77887045,-1.316498215,496,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1719
+36.78019806,-1.315728002,497,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Lydia Awino,1733
+36.796995,-1.317633333,498,Silanga,Kibera,Water point,NaN,Community group,Nairobi city county,1732.6
+36.78294213,-1.314579807,499,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),Milka awuor,1721
+36.77944662,-1.31521394,500,Gatwekera,Kibera,Water point,NaN,Individual (eg business owner),NaN,1731
+36.788905,-1.313595,501,Kisumu ndogo,Kibera,Hand washing facility,NaN,Individual (eg business owner),Lidah,1730.9
+36.782605,-1.307485,502,Makina,Kibera,Hand washing facility,NaN,NGO,UN.HABITAT,1805.4
+36.77585665,-1.310177715,503,Ayany estate,Kibera,Hand washing facility,NaN,NGO,Chinese embassy and Esther Passaris,1769
+36.79899667,-1.315585,504,soweto east,Kibera,Hand washing facility,NaN,Community group,KRTC,1705.3
+36.77395161,-1.308459886,505,Ayany estate,Kibera,Hand washing facility,NaN,Community group,Kibera ABSN group members,1758
+36.7758305,-1.309379088,506,Ayany estate,Kibera,Hand washing facility,NaN,NGO,SHOFCO,1753
+36.77465687,-1.31120366,507,Kianda,Kibera,Hand washing facility,NaN,Community group,Harambee arts,1764
+36.78919847,-1.312602624,508,Lindi,Kibera,Hand washing facility,NaN,Individual (eg business owner),Mama bachuka,1718.953664
+36.784415,-1.314356667,509,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),Ken odede,1760.2
+36.79359851,-1.315599548,510,Lindi,Kibera,Hand washing facility,NaN,NGO,Carolina for kibera,1704.709377
+36.79659333,-1.317023333,511,Silanga,Kibera,Hand washing facility,NaN,Community group,Shofco,1735.4
+36.78344667,-1.308056667,512,Makina,Kibera,Hand washing facility,NaN,Individual (eg business owner),Everyone swila,1890.7
+36.7864891,-1.315268171,513,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1704
+36.78202397,-1.315865382,514,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1724
+36.7796581,-1.315549174,515,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner) Community group,NaN,1742
+36.77433274,-1.310696723,516,Ayany estate,Kibera,Hand washing facility,NaN,Community group,S.R.T,1757
+36.78459667,-1.31268,517,Kisumu ndogo,Kibera,Hand washing facility,NaN,Individual (eg business owner),Shofco,1753
+36.78864392,-1.313796686,518,Kisumu ndogo,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1699
+36.78203333,-1.307318333,519,Toi Market,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1767.1
+36.7934544,-1.317101226,520,Lindi,Kibera,Hand washing facility,NaN,NGO,Pt.ww,1681.820421
+36.78599667,-1.308295,521,D.C village,Kibera,Hand washing facility,NaN,NGO,Shofco,1751.8
+36.78165833,-1.310278333,522,Makina,Kibera,Hand washing facility,NaN,NGO,Shofco,1745.8
+36.79005457,-1.313350124,523,Lindi,Kibera,Hand washing facility,NaN,NGO,Shofco,1711.790333
+36.78201833,-1.31034,524,Makina,Kibera,Hand washing facility,NaN,NGO,Kevin Odongo,1741.3
+36.78118251,-1.316524073,525,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),Ken odede,1716
+36.77946908,-1.315213689,526,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner) Community group,Imran Benard okoth,1739
+36.78108662,-1.314505292,527,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),Mama dora,1738
+36.78327333,-1.306868333,528,Makina,Kibera,Hand washing facility,NaN,NGO,N/A,1762.1
+36.78236667,-1.3139,529,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner) Community group,Shofco,1729.1
+36.79763601,-1.31417039,530,Laini saba,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1718
+36.79728667,-1.313195,531,Laini saba,Kibera,Hand washing facility,NaN,Community group,Shofco,1729.3
+36.78535207,-1.31115907,532,Karanja estate,Kibera,Hand washing facility,NaN,UN Agency NGO,Kibera community emergency responce,1744
+36.782375,-1.311245,533,Karanja estate,Kibera,Hand washing facility,NaN,NGO,Shofco,1766.7
+36.78653167,-1.31149,534,Kambi muru,Kibera,Hand washing facility,NaN,Community group,Yusuf idris,1779.6
+36.78774867,-1.31125739,535,Kambi muru,Kibera,Hand washing facility,NaN,NGO,SHOFCO,1744
+36.78926998,-1.31271234,536,Kambi muru,Kibera,Hand washing facility,NaN,Individual (eg business owner),Mama Banjuka,1735
+36.77505559,-1.311139371,537,Kianda,Kibera,Hand washing facility,NaN,Individual (eg business owner),Individual,1777
+36.77722667,-1.314125,538,Olympic estate,Kibera,Hand washing facility,NaN,NGO,SHOFCO,1751.8
+36.777095,-1.313958333,539,soweto west,Kibera,Hand washing facility,NaN,NGO,SHOFCO,1779.8
+36.78902078,-1.312437126,540,Lindi,Kibera,Hand washing facility,NaN,Individual (eg business owner),California,1713.214577
+36.79905167,-1.317815,541,Silanga,Kibera,Hand washing facility,NaN,Community group,Shofco,1724.9
+36.78250937,-1.314914958,542,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner) Community group,Plan International,1724
+36.79809833,-1.311853333,543,Laini saba,Kibera,Hand washing facility,NaN,Individual (eg business owner),N/A,1731.3
+36.79399333,-1.315076667,544,Lindi,Kibera,Hand washing facility,NaN,NGO,Amani kibera,1716.5
+36.792486,-1.315100878,545,Lindi,Kibera,Hand washing facility,NaN,Individual (eg business owner),Mama chipop,1705.181344
+36.792945,-1.311696667,546,Mashimoni,Kibera,Hand washing facility,NaN,NGO,Shofco wash,1768.5
+36.79199167,-1.314703333,547,Lindi,Kibera,Hand washing facility,NaN,NGO,Shofco,1721.1
+36.79123917,-1.310001667,548,Mashimoni,Kibera,Hand washing facility,NaN,Community group,PEFA Church,1734.2
+36.78474667,-1.314761667,549,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),Ken odede,1750.1
+36.78297333,-1.314495,550,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),Shofco,1732.2
+36.786215,-1.307193333,551,D.C village,Kibera,Hand washing facility,NaN,Community group,UnHabitat,1726.4
+36.79785,-1.31223,552,Laini saba,Kibera,Hand washing facility,NaN,NGO,un habitat,1713.5
+36.79252333,-1.315115,553,Lindi,Kibera,Hand washing facility,NaN,Individual (eg business owner),Pauline,1720.6
+36.77934167,-1.315285,554,Gatwekera,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1728.7
+36.78841886,-1.313894293,555,Kisumu ndogo,Kibera,Hand washing facility,NaN,Individual (eg business owner),NaN,1701
+36.795305,-1.316621667,556,Silanga,Kibera,Hand washing facility,NaN,Community group,Amani kibera,1716.8
+36.80009167,-1.31531,557,soweto east,Kibera,Hand washing facility,NaN,Community group,UNITED NATIONS,1711.9
+36.786905,-1.314993333,558,Gatwekera,Kibera,Hand washing facility,NaN,NGO,Ken odede,1707
+36.78402,-1.306286667,559,D.C village,Kibera,Hand washing facility,NaN,Community group,UnHabitat,1750.7
+36.78220833,-1.309015,560,Makina,Kibera,Hand washing facility,NaN,NGO,N/A,1759.3
+36.78033351,-1.30980992,561,Karanja estate,Kibera,Hand washing facility,NaN,NGO,Shofco,1732
+36.77934667,-1.308951667,562,Toi Market,Kibera,Hand washing facility,NaN,NGO,N/A,1819.2
+36.779605,-1.306878333,563,Toi Market,Kibera,Hand washing facility,NaN,NGO,N/A,1781.3
+36.77840833,-1.30826,564,Toi Market,Kibera,Hand washing facility,NaN,NGO,N/A,1896.5
+36.78324167,-1.3078,565,Makina,Kibera,Hand washing facility,NaN,NGO,Ken,1750.1
+36.78176833,-1.308401667,566,Makina,Kibera,Hand washing facility,NaN,NGO,N/A,1785
+36.78142833,-1.309071667,567,Makina,Kibera,Hand washing facility,NaN,NGO,N/A,1774
+36.78772333,-1.311071667,568,Kambi muru,Kibera,Hand washing facility,NaN,NGO,N/A,1756.9
+36.78897333,-1.311103333,569,Kambi muru,Kibera,Hand washing facility,NaN,NGO,N/A,1731.3
+36.78635667,-1.309696667,570,Kambi muru,Kibera,Hand washing facility,NaN,NGO,N/A,1751.5
+36.77819833,-1.309015,571,Toi Market,Kibera,Hand washing facility,NaN,NGO,Chandaria Foundation,1805.7
+36.77859167,-1.309881667,572,Toi Market,Kibera,Hand washing facility,NaN,NGO,N/A,1815.1
+36.78019333,-1.307063333,573,Toi Market,Kibera,Hand washing facility,NaN,NGO,N/A,1832.6
+36.78144833,-1.310636667,574,Karanja estate,Kibera,Hand washing facility,NaN,NGO,Shofco,1772.9
+36.79880667,-1.315266667,575,soweto east,Kibera,Hand washing facility,NaN,NGO,SHOFCO,1717.7
+36.79753667,-1.31399,576,soweto east,Kibera,Hand washing facility,NaN,NGO,SHOFCO,1728.8
+36.79418333,-1.312033333,577,Laini saba,Kibera,Hand washing facility,NaN,NGO,Plan international,1728.9
+36.796285,-1.314548333,578,Laini saba,Kibera,Hand washing facility,NaN,Individual (eg business owner),INDIVIDUAL,1711.4
+36.77455771,-1.311471085,579,Kianda,Kibera,Social hall / community centre / resource centre,MART2 CENTA,Community group,N/A,1746
+36.79317667,-1.316263333,580,Lindi,Kibera,Religious facility,Nairibi dam Pentecostal  Assemblies  of God,Missing Values,NaN,1722.1
+36.77400075,-1.31078023,581,Kianda,Kibera,Social hall / community centre / resource centre,"
+Nikofeli youth program",NGO,NaN,1788
+36.79796667,-1.31734,582,Silanga,Kibera,Pharmacy / chemist,34A Chemist,Missing Values,NaN,1706.5
+36.7752408,-1.31209334,583,Kianda,Kibera,Religious facility,3rivers of grace fellowship,Missing Values,NaN,1745
+36.77292489,-1.30789898,584,Ayany estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,42bus stop,No one,County government,1766
+36.782935,-1.313596667,585,Gatwekera,Kibera,Religious facility,A. C. F. Gatwekera Fellowship,Missing Values,NaN,1755.4
+36.78835667,-1.30613,586,D.C village,Kibera,Religious facility,A. P church,Missing Values,NaN,1788.1
+36.78359667,-1.307061667,587,Makina,Kibera,Religious facility,A.C.K Holy trinity church,Missing Values,NaN,1725.4
+36.79416333,-1.312936667,588,Laini saba,Kibera,Religious facility,A.D.C,Missing Values,NaN,1707.1
+36.79412034,-1.313032191,589,Lindi,Kibera,Religious facility,A.D.C church,Missing Values,NaN,1697.341186
+36.79914667,-1.316745,590,Silanga,Kibera,Religious facility,A.I.C Beth Saida kibera D.c.c,Missing Values,NaN,1713.4
+36.79943833,-1.317915,591,Silanga,Kibera,Religious facility,A.I.C Silanga Kibra,Missing Values,NaN,1725.2
+36.793955,-1.3185925,592,Lindi,Kibera,Religious facility,Abundant Grace Church,Missing Values,NaN,1690.45
+36.79197,-1.312646667,593,Lindi,Kibera,Religious facility,Abundant Grace of Jesus Ministry,Missing Values,NaN,1737.2
+36.79859833,-1.318456667,594,Silanga,Kibera,Education Facility,Ack Emmanuel Education centre,Other,NaN,1662.5
+36.798805,-1.318345,595,Silanga,Kibera,Religious facility,Ack emmanuel parish,Missing Values,NaN,1662.3
+36.77573819,-1.31309912,596,Kianda,Kibera,Religious facility,ACK St andrews,Missing Values,NaN,1750
+36.77419687,-1.312047886,597,Kianda,Kibera,Social hall / community centre / resource centre,Action foundation hub,NGO,Action foundation,1744
+36.77993,-1.313875,598,Olympic estate,Kibera,Local organization/ NGO office,Action Network for the Disabled,Missing Values,NaN,1769.6
+36.79557667,-1.315733333,599,Silanga,Kibera,Religious facility,ADC Nairobi sub mission,Missing Values,NaN,1710.2
+36.79094167,-1.31643,600,Lindi,Kibera,Religious facility,Africa Church of Holy Spirit,Missing Values,NaN,1705.7
+36.778265,-1.311863333,601,Olympic estate,Kibera,Local organization/ NGO office,Africa health community program,Missing Values,NaN,1772.7
+36.79784167,-1.314558333,602,Laini saba,Kibera,Social hall / community centre / resource centre,Africa Leadership and Reconciliation Ministries(ALARM),Community group,NaN,1723.5
+36.77835667,-1.311358333,603,Olympic estate,Kibera,Religious facility,African inland church(AIC),Missing Values,NaN,1773.3
+36.789,-1.313521667,604,Kisumu ndogo,Kibera,Religious facility,African interior church,Missing Values,NaN,1704.1
+36.77833667,-1.311396667,605,Olympic estate,Kibera,Education Facility,AIC kibera academy,Other,None,1773.4
+36.79571541,-1.31417202,606,Laini saba,Kibera,Religious facility,AIC Soweto,Missing Values,NaN,1629
+36.79209554,-1.311412726,607,Mashimoni,Kibera,Education Facility,Akili complex school,Individual (eg business owner),Abinayo,1708.270089
+36.77530688,-1.312244944,608,Kianda,Kibera,Pharmacy / chemist,Alamin chemist,Missing Values,NaN,1791
+36.78046293,-1.31007128,609,Karanja estate,Kibera,Religious facility,Al-aqsar mosque,Missing Values,NaN,1734
+36.78462,-1.308586667,610,Makina,Kibera,Religious facility,Almaida mosque,Missing Values,NaN,1739.5
+36.78873667,-1.307405,611,D.C village,Kibera,Pharmacy / chemist,Alpha and omega,Missing Values,NaN,1771.7
+36.78695833,-1.30698,612,D.C village,Kibera,Pharmacy / chemist,Amanda,Missing Values,NaN,1733.3
+36.79369167,-1.31655,613,Lindi,Kibera,Local organization/ NGO office,Amani Kibera,Missing Values,NaN,1726.7
+36.79660373,-1.31329467,614,Laini saba,Kibera,Religious facility,Amazing Grace World Evangelism Church,Missing Values,NaN,1687
+36.79554,-1.315451667,615,Silanga,Kibera,Religious facility,Ambassador For Christ Church,Missing Values,NaN,1691.7
+36.79647,-1.318538333,616,Silanga,Kibera,Public space,Andolo,No one,NaN,1674.1
+36.79379263,-1.318397886,617,Lindi,Kibera,Public space,Andolo,Community group,NaN,1675.366001
+36.79425167,-1.314633333,618,Lindi,Kibera,Religious facility,Andusu P.A.G church,Missing Values,NaN,1724.4
+36.77842167,-1.317853333,619,Raila,Kibera,Social hall / community centre / resource centre,Angaza Mbele Self Help Group,Community group,None,1725.3
+36.793465,-1.314458333,620,Lindi,Kibera,Education Facility,Anwa Junior Academy,Community group,NaN,1717.5
+36.77684,-1.311793333,621,Olympic estate,Kibera,Religious facility,Apel For All Nations,Missing Values,NaN,1766.5
+36.78953985,-1.312236432,622,Mashimoni,Kibera,Religious facility,Apostolic church mashimoni,Missing Values,NaN,1711.061383
+36.79556167,-1.318571667,623,Silanga,Kibera,Religious facility,Apostolic Revival healing church,Missing Values,NaN,1673.6
+36.77697167,-1.317545,624,Raila,Kibera,Local administrative office,Assistance Chief's Office Bypass,Missing Values,NaN,1749.6
+36.77638333,-1.317145,625,Raila,Kibera,Pharmacy / chemist,"At Bridge ,",Missing Values,NaN,2104
+36.77306081,-1.31056999,626,Kianda,Kibera,Local organization/ NGO office,Atr of hope foundation,Missing Values,NaN,1757
+36.77626804,-1.30816673,627,Ayany estate,Kibera,Education Facility,Ayani primary school,County government,County Government,1735
+36.77581902,-1.3109607,628,Ayany estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Ayani stage,No one,NaN,1762
+36.77587442,-1.31018842,629,Ayany estate,Kibera,Police station,Ayani sub-police post,Missing Values,NaN,1766
+36.77551833,-1.31486,630,soweto west,Kibera,Religious facility,Azusa World Ministries,Missing Values,NaN,1772.8
+36.78099833,-1.316668333,631,Gatwekera,Kibera,Religious facility,Baptist Rescue Center,Missing Values,NaN,1743.2
+36.78620833,-1.307121667,632,D.C village,Kibera,Social hall / community centre / resource centre,Bar,Individual (eg business owner),Daniel Mutukwa,1799.6
+36.78170395,-1.310353358,633,Kisumu ndogo,Kibera,Education Facility,Baraka za ibrahim,National government,National  government,1741
+36.78469554,-1.314768358,634,Gatwekera,Kibera,Education Facility,Baraka Za Ibrahim Children Centre,Individual (eg business owner),NaN,1720
+36.78165333,-1.310235,635,Makina,Kibera,Education Facility,Benjamin nzimbi,Individual (eg business owner),Richard ogol,1748.6
+36.78361667,-1.307406667,636,Makina,Kibera,Education Facility,Benjamin Nzimbi,Individual (eg business owner),Michael sinzi,1725.5
+36.78386279,-1.314360327,637,Gatwekera,Kibera,Education Facility,Bethel Outreach Children Centre,Other,Bethel Church,1725
+36.780985,-1.316788333,638,Gatwekera,Kibera,Education Facility,Better For Kids Academy,Individual (eg business owner),NaN,1739.6
+36.77662167,-1.314866667,639,soweto west,Kibera,Education Facility,Bidii Nursery School,Individual (eg business owner),NA,1745.9
+36.78911167,-1.311166667,640,Mashimoni,Kibera,Other,Big Screen Car Wash,Community group,NaN,1762.78
+36.779465,-1.312276667,641,Olympic estate,Kibera,Local organization/ NGO office,Binti pamoja centre,Missing Values,NaN,1768.4
+36.79556333,-1.315696667,642,Silanga,Kibera,Education Facility,Blessed Academy,Individual (eg business owner),NaN,1709.4
+36.77337293,-1.309745838,643,Ayany estate,Kibera,Pharmacy / chemist,Blessed chemist,Missing Values,NaN,1750
+36.79927167,-1.317911667,644,Silanga,Kibera,Education Facility,Blessed Children Centre,Individual (eg business owner),NaN,1724.9
+36.79388333,-1.311666667,645,Laini saba,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Boda boda stage,Community group,N/A,1728.8
+36.787585,-1.305796667,646,D.C village,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Bodaboda,No one,NaN,1779.5
+36.78768167,-1.31138,647,Kambi muru,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Bodaboda,No one,NaN,1753.6
+36.77665667,-1.312075,648,Olympic estate,Kibera,Education Facility,Bonstar children center,Individual (eg business owner),None,1770.5
+36.79692333,-1.317316667,649,Silanga,Kibera,Other,Booster,NGO,Safaricom,1730.6
+36.77661521,-1.312124496,650,Kianda,Kibera,Education Facility,Bornstar children's centre,Individual (eg business owner),Individual,1724
+36.78037833,-1.314593333,651,Olympic estate,Kibera,Education Facility,Brainstorm Junior Children Centre,Individual (eg business owner),NA,1777.4
+36.79655394,-1.31518563,652,Laini saba,Kibera,Pharmacy / chemist,BRIDGE MEDICAL CLINIC/DISPENCING CHEMIST,Missing Values,NaN,1672
+36.77890667,-1.314555,653,Olympic estate,Kibera,Education Facility,Brown Daisy Children Centre,Individual (eg business owner),NA,1765.1
+36.78916,-1.313571667,654,Kisumu ndogo,Kibera,Education Facility,By the grace day care academy,Individual (eg business owner),Esther,1680.3
+36.77647667,-1.31735,655,Raila,Kibera,Local administrative office,Bypass Police Station,Missing Values,NaN,1725.9
+36.78439833,-1.314616667,656,Gatwekera,Kibera,Education Facility,Cana Junior Children Center,Individual (eg business owner),NaN,1750.3
+36.80096667,-1.314388333,657,soweto east,Kibera,Social hall / community centre / resource centre,CANAAN ESTATE COMMUNITY HALL,Other,MINISTRY OF HOUSING-KENYA,1693.3
+36.79697,-1.315383333,658,Laini saba,Kibera,Pharmacy / chemist,CARO Chemist,Missing Values,NaN,1616.8
+36.78451833,-1.314696667,659,Gatwekera,Kibera,Social hall / community centre / resource centre,Carribean,Individual (eg business owner),Apieta,1736.3
+36.78601,-1.308318333,660,D.C village,Kibera,Social hall / community centre / resource centre,Cassava youth group social hall,Community group,Cassava youths,1747
+36.794215,-1.313863333,661,Lindi,Kibera,Religious facility,Cave Evangelism Ministry Church,Missing Values,NaN,1724.4
+36.78586333,-1.312311667,662,Kambi muru,Kibera,Social hall / community centre / resource centre,CBO project Choo na Bafu,Other,N/a,1747.2
+36.77959833,-1.314858333,663,Olympic estate,Kibera,Religious facility,CCA church,Missing Values,NaN,1773
+36.78481511,-1.31068071,664,Karanja estate,Kibera,Local organization/ NGO office,Center for community development and human Rights,Missing Values,NaN,1737
+36.77324049,-1.309009027,665,Kianda,Kibera,Pharmacy / chemist,Centum Kibera,Missing Values,NaN,1757
+36.79233222,-1.312152222,666,Mashimoni,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Chavakali Stage,Community group,NaN,1730.166667
+36.77305031,-1.31059456,667,Kianda,Kibera,Education Facility,Chema vision children centre,NGO,NaN,1758
+36.78897333,-1.312328333,668,Kambi muru,Kibera,Pharmacy / chemist,Chemist,Missing Values,NaN,1730.7
+36.78795333,-1.310173333,669,Makongeni,Kibera,Pharmacy / chemist,Chemist,Missing Values,NaN,1749
+36.78736167,-1.312076667,670,Kambi muru,Kibera,Pharmacy / chemist,Chemist,Missing Values,NaN,1727.1
+36.79080041,-1.311437564,671,Mashimoni,Kibera,Education Facility,Cherry school,Individual (eg business owner),NaN,1701.98806
+36.78824333,-1.30595,672,D.C village,Kibera,Local administrative office,Chief's office,Missing Values,NaN,1750.5
+36.77800333,-1.315008333,673,Olympic estate,Kibera,Education Facility,Childlife vocational centre,NGO,Childlife,1782
+36.78815,-1.306436667,674,D.C village,Kibera,Local administrative office,Children's office,Missing Values,NaN,1749.9
+36.79766167,-1.317675,675,Silanga,Kibera,Religious facility,Christ way outreach,Missing Values,NaN,1698.5
+36.78067667,-1.30776,676,Toi Market,Kibera,Religious facility,Christian Foundation Fellowship  Church,Missing Values,NaN,1775.5
+36.79258825,-1.312612903,677,Mashimoni,Kibera,Religious facility,Christian hope network,Missing Values,NaN,1690.720862
+36.79475667,-1.317371667,678,Silanga,Kibera,Religious facility,Christian outrich center,Missing Values,NaN,1703.1
+36.78227833,-1.315798333,679,Gatwekera,Kibera,Religious facility,Church G A F,Missing Values,NaN,1760.3
+36.79390167,-1.31178,680,Laini saba,Kibera,Religious facility,Church of Bethlehem Matendo R.G,Missing Values,NaN,1717
+36.79388983,-1.31414488,681,Lindi,Kibera,Religious facility,Church of GOD prophecy kibera,Missing Values,NaN,1701.098812
+36.77781333,-1.317038333,682,Raila,Kibera,Education Facility,Church On The Rock Intl. Academy,Individual (eg business owner),None,1704.2
+36.77119807,-1.310011209,683,Kianda,Kibera,Religious facility,Collecting souls for christ international ministries,Missing Values,NaN,1740
+36.779635,-1.306755,684,Toi Market,Kibera,Police station,Community  police post,Missing Values,NaN,1777.7
+36.77830833,-1.317213333,685,Raila,Kibera,Religious facility,Community Christian Church,Missing Values,NaN,1728.8
+36.7756,-1.315835,686,soweto west,Kibera,Police station,Community police post,Missing Values,NaN,1887.1
+36.78800167,-1.306838333,687,D.C village,Kibera,Pharmacy / chemist,Confident,Missing Values,NaN,1773.9
+36.78258874,-1.31606638,688,Gatwekera,Kibera,Education Facility,Crea Kids Learning Centre,Individual (eg business owner),NaN,1717
+36.77658333,-1.312145,689,Olympic estate,Kibera,Local organization/ NGO office,Cubic hope children centre,Missing Values,NaN,1769.9
+36.77664426,-1.31212609,690,Kianda,Kibera,Education Facility,Cubic of hope,Individual (eg business owner) NGO,NaN,1754
+36.78817944,-1.311493889,691,Lindi,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Darajani,Community group,NaN,1748.533333
+36.78802333,-1.310881667,692,Makongeni,Kibera,Religious facility,Darajani Mosque,Missing Values,NaN,1749
+36.78626102,-1.31202639,693,Kambi muru,Kibera,Religious facility,Daranjani Assembly Church,Missing Values,NaN,1737
+36.78805762,-1.31147388,694,Kambi muru,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Daranjani Boda Boda Stage,No one,NaN,1715
+36.787725,-1.306183333,695,D.C village,Kibera,Police station,DC police post,Missing Values,NaN,1761.3
+36.796585,-1.318726667,696,Silanga,Kibera,Religious facility,Deliverance church silanga,Missing Values,NaN,1673.8
+36.77366614,-1.31035309,697,Kianda,Kibera,Religious facility,Diet of the word international church,Missing Values,NaN,1745
+36.79431,-1.314601667,698,Lindi,Kibera,Religious facility,Divinemercy Catholic Church,Missing Values,NaN,1724.3
+36.79055437,-1.313416374,699,Lindi,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,DOM stage,Community group,NaN,1704.708113
+36.78952108,-1.313470211,700,Kisumu ndogo,Kibera,Education Facility,Early childhood centre,Individual (eg business owner),NaN,1701
+36.77814667,-1.317825,701,soweto east,Kibera,Religious facility,Ebenezer Christian Ministries Church,Missing Values,NaN,1724.8
+36.7929625,-1.312935833,702,Lindi,Kibera,Education Facility,Elite Visionary High School,Community group,NaN,1730.75
+36.77796,-1.315378333,703,soweto west,Kibera,Religious facility,Emmanuel's Love Ministry International,Missing Values,NaN,1760.2
+36.7738078,-1.31036163,704,Kianda,Kibera,Local organization/ NGO office,Empower achild,Missing Values,NaN,1756
+36.79405407,-1.316845381,705,Lindi,Kibera,Religious facility,End times church lindi,Missing Values,NaN,1700.976459
+36.78451524,-1.314586638,706,Gatwekera,Kibera,Religious facility,Ephatha Of Holy Trinity Ministry,Missing Values,NaN,1710
+36.794615,-1.317,707,Silanga,Kibera,Pharmacy / chemist,Eveben Pharmacy,Missing Values,NaN,1730.1
+36.795705,-1.316486667,708,Silanga,Kibera,Religious facility,Evengelical Missions Across The World,Missing Values,NaN,1708.6
+36.79634,-1.316995,709,Silanga,Kibera,Pharmacy / chemist,Ever Chemist,Missing Values,NaN,1736.1
+36.79854167,-1.31849,710,Silanga,Kibera,Religious facility,Everngelical gospel ministry,Missing Values,NaN,1662.9
+36.79188316,-1.309974668,711,Mashimoni,Kibera,Education Facility,Fafu school,Individual (eg business owner),NaN,1724.034505
+36.77597333,-1.314675,712,soweto west,Kibera,Education Facility,Fairview Children Centre,Individual (eg business owner),NA,1773.2
+36.78181833,-1.307015,713,Toi Market,Kibera,Religious facility,Faith Community  Fellowship,Missing Values,NaN,1763.8
+36.77857667,-1.315461667,714,soweto west,Kibera,Religious facility,FAITH OF WORD SALVATION CHURCH,Missing Values,NaN,1746
+36.79862333,-1.31798,715,Silanga,Kibera,Religious facility,Faith revival fellowship,Missing Values,NaN,1684.1
+36.78556667,-1.306908333,716,D.C village,Kibera,Social hall / community centre / resource centre,Fataras,Community group,NYS,1741
+36.77304833,-1.310368333,717,Kianda,Kibera,Education Facility,Foundation Of Hope,Individual (eg business owner),N/A,1741.6
+36.79484556,-1.312950556,718,Lindi,Kibera,Religious facility,Free Methodist Church of Kenya,Missing Values,NaN,1716.2
+36.79494167,-1.312875,719,Laini saba,Kibera,Religious facility,Free Methodist Church of Kenya,Missing Values,NaN,1748.8
+36.78326131,-1.314412043,720,Gatwekera,Kibera,Education Facility,Fruitful Talent Centre,Individual (eg business owner),Purity jelanga,1728
+36.77639833,-1.31307,721,Olympic estate,Kibera,Religious facility,Full Gospel Churches of kenya,Missing Values,NaN,1766.3
+36.77636007,-1.31303607,722,Kianda,Kibera,Religious facility,Full Gospel Churches of Kenya,Missing Values,NaN,1741
+36.781155,-1.314091667,723,Olympic estate,Kibera,Religious facility,Full gospel evangelistic ministry,Missing Values,NaN,1778.5
+36.78116333,-1.316476667,724,Gatwekera,Kibera,Religious facility,Full Gospel Fellowship Deliverance Church,Missing Values,NaN,1783.7
+36.79196314,-1.31234118,725,Lindi,Kibera,Education Facility,Future leaders,Individual (eg business owner),Dan,1706.08638
+36.77270032,-1.30910905,726,Kianda,Kibera,Social hall / community centre / resource centre,GAA kibera commnity libry,NGO,GAA,1753
+36.79056015,-1.314371275,727,Lindi,Kibera,Religious facility,Gangsta P.AG church,Missing Values,NaN,1686.466979
+36.77869833,-1.311896667,728,Olympic estate,Kibera,Local organization/ NGO office,Garden of hope,Missing Values,NaN,1759.4
+36.78678833,-1.309678333,729,Makongeni,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Gaza,Community group,Gaza,1773.5
+36.78404208,-1.313914368,730,Gatwekera,Kibera,Education Facility,Gifted Hands Educational Centre,Individual (eg business owner),NaN,1719
+36.7726851,-1.30912296,731,Kianda,Kibera,Social hall / community centre / resource centre,Global alliance africa,NGO,GAA,1751
+36.78461833,-1.314386667,732,Gatwekera,Kibera,Social hall / community centre / resource centre,Golda Chanoff Community center,Community group,Shofco,1737.1
+36.79067611,-1.310854444,733,Mashimoni,Kibera,Education Facility,Good News Academy,Community group,NaN,1737.7
+36.77383257,-1.30826815,734,Ayany estate,Kibera,Education Facility,Goodlife educational centre,NGO,NaN,1752
+36.7820062,-1.315950709,735,Gatwekera,Kibera,Religious facility,Gospel Power,Missing Values,NaN,1727
+36.78423333,-1.30714,736,Makina,Kibera,Public space,Gotogo playing ground,Individual (eg business owner),Fatuma Mohamed,1762
+36.79920333,-1.31842,737,Silanga,Kibera,Education Facility,Grace humanitors,Community group,NaN,1662.3
+36.79808667,-1.317368333,738,Silanga,Kibera,Religious facility,Grace Revival Church,Missing Values,NaN,1728.8
+36.79502,-1.316631667,739,Silanga,Kibera,Other,Gracious dairies,Individual (eg business owner),NaN,1752.7
+36.78293667,-1.315371667,740,Gatwekera,Kibera,Social hall / community centre / resource centre,Grand Theft Auto,Individual (eg business owner),NaN,1751.3
+36.79828,-1.317901667,741,Silanga,Kibera,Religious facility,Greater grace,Missing Values,NaN,1689.3
+36.80090167,-1.317816667,742,Silanga,Kibera,Local organization/ NGO office,Green Card Mtaani,Missing Values,NaN,1696.6
+36.78386998,-1.31083943,743,Karanja estate,Kibera,Education Facility,Green Pastures,Individual (eg business owner),NaN,1736
+36.78380333,-1.310885,744,Karanja estate,Kibera,Public space,Green pastures school open grounds,Individual (eg business owner),Green pastures school,1745.4
+36.78237333,-1.314193333,745,Gatwekera,Kibera,Social hall / community centre / resource centre,Gullyside Video Show,Individual (eg business owner),NaN,1732.3
+36.78213,-1.315888333,746,Gatwekera,Kibera,Education Facility,Guum C. B. O. Primary School,Individual (eg business owner),NaN,1783.6
+36.77470028,-1.31124448,747,Kianda,Kibera,Pharmacy / chemist,Handpoint pharmacy,Missing Values,NaN,1773
+36.79815833,-1.314385,748,soweto east,Kibera,Religious facility,HARVEST CHURCH,Missing Values,NaN,1728.6
+36.78196833,-1.310355,749,hawkers market,Kibera,Market,Hawkers market,County government,NaN,1699.1
+36.77961167,-1.30696,750,Toi Market,Kibera,Education Facility,Helping Hands School,Community group,NaN,1745.5
+36.80496167,-1.315231667,751,soweto east,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,HIGH-RISE BLOCK C STAGE,No one,N/A,1559.8
+36.80519167,-1.314791667,752,soweto east,Kibera,Local administrative office,HIGH-RISE LOCATION,Missing Values,NaN,1690.5
+36.78420333,-1.3129,753,Kisumu ndogo,Kibera,Religious facility,Holy Ghost Musanda church of E and C African,Missing Values,NaN,1744.5
+36.77470011,-1.31188383,754,Kianda,Kibera,Education Facility,Hope and shine kibra,NGO Individual (eg business owner),NaN,1740
+36.77215519,-1.31220617,755,Kianda,Kibera,Education Facility,Hope community school,Individual (eg business owner) Other,NaN,1741
+36.79058333,-1.311095,756,Mashimoni,Kibera,Religious facility,Hossana Community Church Kibera Assembly,Missing Values,NaN,1710.8
+36.78632,-1.311975,757,Kambi muru,Kibera,Religious facility,Hubble reddeeem worship,Missing Values,NaN,1763.7
+36.787785,-1.306331667,758,D.C village,Kibera,Local administrative office,Huduma center,Missing Values,NaN,1771.7
+36.78538667,-1.30847,759,Makina,Kibera,Pharmacy / chemist,IMACT CHEMIST,Missing Values,NaN,1765.4
+36.79553667,-1.316756667,760,Silanga,Kibera,Pharmacy / chemist,Imag Chemist,Missing Values,NaN,1720.6
+36.77604583,-1.313811019,761,Kianda,Kibera,Pharmacy / chemist,Indianapolis chemist,Missing Values,NaN,1743
+36.77573587,-1.311039752,762,Ayany estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Informal,No one,NaN,1769
+36.77207845,-1.30998041,763,Kianda,Kibera,Religious facility,Ingili takatifu,Missing Values,NaN,1744
+36.77200986,-1.311982465,764,Kianda,Kibera,Religious facility,International Christian assemblies,Missing Values,NaN,1741
+36.7834748,-1.31105775,765,Karanja estate,Kibera,Pharmacy / chemist,Jadunga medical clinic,Missing Values,NaN,1761
+36.78418,-1.313175,766,Kisumu ndogo,Kibera,Religious facility,Jalamo,Missing Values,NaN,1720.2
+36.78949,-1.310915,767,Mashimoni,Kibera,Pharmacy / chemist,Jamii,Missing Values,NaN,1727.1
+36.77454566,-1.31158193,768,Kianda,Kibera,Education Facility,Jamii yetu educational centre,NGO Other Individual (eg business owner) Community group,NaN,1758
+36.77454484,-1.31158947,769,Kianda,Kibera,Religious facility,Jammii outreach ministries,Missing Values,NaN,1752
+36.78539833,-1.305785,770,D.C village,Kibera,Religious facility,Jeedah mosq kamby,Missing Values,NaN,1754
+36.78083667,-1.312243333,771,Olympic estate,Kibera,Education Facility,Jeremic Adventist Academy,Other,Adventist Church,1745.9
+36.78060833,-1.312215,772,Olympic estate,Kibera,Public space,Jeremic SDA Church,Other,Jeremic SDA Church,1751.6
+36.79659,-1.313331667,773,Laini saba,Kibera,Education Facility,Jesus City Reigner Day care,Individual (eg business owner),NaN,1730.3
+36.79663833,-1.313293333,774,Laini saba,Kibera,Religious facility,jesus city reing missionary church,Missing Values,NaN,1730.2
+36.79874833,-1.315273333,775,soweto east,Kibera,Religious facility,JESUS WINNERS TRANSFORMATION CHURCH,Missing Values,NaN,1717.6
+36.79059,-1.311065,776,Mashimoni,Kibera,Other,Jimfloh Bakery,Individual (eg business owner),John,1729.85
+36.80089,-1.316811667,777,soweto east,Kibera,Education Facility,Joash Olumu primary school,National government,CDF,1713.5
+36.79314417,-1.31184,778,Mashimoni,Kibera,Education Facility,John Paul 2 Mixed Secondary School,Community group,NaN,1744.3
+36.77612235,-1.31099888,779,Kianda,Kibera,Pharmacy / chemist,Jomac pharmacy,Missing Values,NaN,1769
+36.77190291,-1.308438848,780,Kianda,Kibera,Education Facility,Joowia academy,Individual (eg business owner),Individual,1748
+36.77496041,-1.31194321,781,Kianda,Kibera,Education Facility,Joysprings educational centre,NGO Individual (eg business owner),NaN,1761
+36.77396434,-1.31214747,782,Kianda,Kibera,Social hall / community centre / resource centre,Julie hope children home,Other NGO,NaN,1733
+36.78036667,-1.314818333,783,Gatwekera,Kibera,Religious facility,Jumba La Ufalme La Mashahidi Wa Yehova,Missing Values,NaN,1720.7
+36.78374167,-1.316483333,784,Gatwekera,Kibera,Social hall / community centre / resource centre,K.A.G.O,Community group,NaN,1700.5
+36.787365,-1.311153333,785,Kambi muru,Kibera,Public space,Kambi muru,Community group,N/A,1736
+36.7816356,-1.3103354,786,soweto west,Kibera,Public space,Kamkunji,Community group,N/A,1731.599976
+36.78206833,-1.31369,787,Olympic estate,Kibera,Public space,Kamukunji grounds,Other,N/A,1751.4
+36.77975833,-1.311876667,788,Olympic estate,Kibera,Education Facility,Karama Academy,Individual (eg business owner),NA,1752.3
+36.78032966,-1.30999011,789,Karanja estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Karanja boda boda stage,No one,NaN,1738
+36.78374833,-1.311445,790,Karanja estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Karanja Boda boda stage,Community group,N/a,1767.5
+36.78019667,-1.309783333,791,Karanja estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Karanja stage,Community group,N/A,1783
+36.7805299,-1.315542804,792,Gatwekera,Kibera,Education Facility,Katanas Library,Individual (eg business owner) Community group,NaN,1730
+36.78272167,-1.315078333,793,Gatwekera,Kibera,Religious facility,Katwekera Local  Friends Church,Missing Values,NaN,1735.4
+36.7907175,-1.311224167,794,Mashimoni,Kibera,Other,Ken and Family Car Wash,Community group,NaN,1737.8
+36.77790167,-1.314593333,795,Olympic estate,Kibera,Religious facility,Kenya Assemblies of God,Missing Values,NaN,1768.7
+36.79746667,-1.314781667,796,Laini saba,Kibera,Religious facility,Kenya Assemblies of God,Missing Values,NaN,1720.5
+36.79963833,-1.317468333,797,Silanga,Kibera,Local organization/ NGO office,Kenya Power kibera,Missing Values,NaN,1717.1
+36.79118745,-1.316346848,798,Lindi,Kibera,Religious facility,Keshi la wokovu,Missing Values,NaN,1694.775331
+36.79415,-1.313911667,799,Laini saba,Kibera,Religious facility,Kev Evergelenzime,Missing Values,NaN,1720.3
+36.79536,-1.318096667,800,Silanga,Kibera,Education Facility,Kibera 7 kids,Individual (eg business owner),NaN,1680.6
+36.80197,-1.315313333,801,soweto east,Kibera,Education Facility,KIBERA BLESSED ACADEMY,Individual (eg business owner),N/A,1592.4
+36.79606,-1.314525,802,Laini saba,Kibera,Social hall / community centre / resource centre,KIBERA COMMUNITY CENTER,Community group,KIBERA COMMUNITY,1732.3
+36.79627444,-1.314547778,803,Lindi,Kibera,Education Facility,Kibera Community Centre,Individual (eg business owner),NaN,1720.5
+36.78690274,-1.31130357,804,Kambi muru,Kibera,Education Facility,Kibera Girls Soccer,NGO,NaN,1723
+36.78721667,-1.311385,805,Kambi muru,Kibera,Education Facility,Kibera Girls Soccer Academy,NGO,NaN,1784.4
+36.790345,-1.314315833,806,Lindi,Kibera,Religious facility,Kibera Hope Gospel Church,Missing Values,NaN,1705.9
+36.77552909,-1.311309985,807,Kianda,Kibera,Social hall / community centre / resource centre,Kibera kids club,Other,St George's orthodox church,1745
+36.78444,-1.314035,808,Gatwekera,Kibera,Religious facility,Kibera P. A.G Church,Missing Values,NaN,1739.1
+36.77964667,-1.312098333,809,Olympic estate,Kibera,Education Facility,Kibera Pride Children's home,NGO,NA,1752
+36.78432833,-1.310686667,810,Karanja estate,Kibera,Education Facility,Kibera primary school,National government,Government of Kenya,1732.4
+36.78379167,-1.31648,811,Gatwekera,Kibera,Public space,Kibera Public Space Project,County government,Nairobi City County,1700.7
+36.80402833,-1.31536,812,soweto east,Kibera,Market,KIBERA SOWETO MARKET STALLS,National government,NaN,1699.5
+36.78161833,-1.314088333,813,Olympic estate,Kibera,Social hall / community centre / resource centre,Kibera Town Centre,Community group,Community,1791.9
+36.77302208,-1.31066362,814,Kianda,Kibera,Social hall / community centre / resource centre,Kibra Art institute,NGO,NaN,1763
+36.78761667,-1.306301667,815,D.C village,Kibera,Local administrative office,"Kibra constituency election office
+",Missing Values,NaN,1769.5
+36.782795,-1.315151667,816,Gatwekera,Kibera,Social hall / community centre / resource centre,Kibra Hamlets,Community group,NaN,1744.3
+36.79247333,-1.316253333,817,Lindi,Kibera,Religious facility,Kibra Lindi Nairobi,Missing Values,NaN,1730.5
+36.787915,-1.306328333,818,D.C village,Kibera,Local administrative office,Kibra peace subcounty office,Missing Values,NaN,1772.8
+36.77679,-1.314923333,819,soweto west,Kibera,Education Facility,Kidogo Daycare,Individual (eg business owner),NA,1745.8
+36.77676333,-1.314901667,820,soweto west,Kibera,Education Facility,Kidogo Daycare,Individual (eg business owner),None,1796
+36.79654,-1.317803333,821,Silanga,Kibera,Education Facility,King Pin Academy,Individual (eg business owner),NaN,1695.6
+36.78873762,-1.313347374,822,Kisumu ndogo,Kibera,Religious facility,Kingdom  Hall of Jehova Witness,Missing Values,NaN,1694
+36.78929833,-1.313566667,823,Kisumu ndogo,Kibera,Education Facility,Kisumu dogo nursery and primary school,Individual (eg business owner),NaN,1691
+36.77150908,-1.30985627,824,Kianda,Kibera,Social hall / community centre / resource centre,Koinania community resource centre,NGO Community group,NaN,1744
+36.7743945,-1.31076765,825,Ayany estate,Kibera,Social hall / community centre / resource centre,Koyaro centre,Individual (eg business owner),NaN,1764
+36.79509833,-1.312971667,826,Laini saba,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Kwa Ben,No one,NaN,1722.1
+36.78482667,-1.314733333,827,Gatwekera,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Kwa jahlive,Community group,NaN,1741.1
+36.79039636,-1.315416863,828,Lindi,Kibera,Social hall / community centre / resource centre,Kwa mrati,NGO,KDI,1663.624088
+36.79300833,-1.315608333,829,Lindi,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Kwa Musa Boda Boda Stage,Community group,NaN,1745.033333
+36.78986609,-1.313271028,830,Lindi,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Kwa sura,Community group,Devi,1716.340837
+36.79828167,-1.311825,831,Laini saba,Kibera,Other,Lain Timber Yard,Individual (eg business owner),NaN,1718.7
+36.79360833,-1.3124,832,Mashimoni,Kibera,Religious facility,Laini Saba SDA Church,Missing Values,NaN,1687.8
+36.79799167,-1.311818333,833,Laini saba,Kibera,Market,Lainsaba,Individual (eg business owner),NaN,1670.2
+36.79539833,-1.312823333,834,Laini saba,Kibera,Religious facility,Lainsaba Mousque,Missing Values,NaN,1722.3
+36.79893667,-1.312366667,835,Laini saba,Kibera,Market,Lainyyy,Individual (eg business owner),NaN,1670.6
+36.79950667,-1.317135,836,Silanga,Kibera,Religious facility,Landmark Baptist Church,Missing Values,NaN,1714.2
+36.78551713,-1.314656083,837,Gatwekera,Kibera,Religious facility,Legion Maria,Missing Values,NaN,1697
+36.79288277,-1.313581861,838,Lindi,Kibera,Religious facility,Legion Maria of African church mission,Missing Values,NaN,1697.589098
+36.77763167,-1.313795,839,Olympic estate,Kibera,Education Facility,Lifespring Bible Church School,Individual (eg business owner),Lifespring church,1737.9
+36.79769333,-1.317428333,840,Silanga,Kibera,Religious facility,Light christian ministries,Missing Values,NaN,1698.1
+36.79563882,-1.314669644,841,Lindi,Kibera,Other,Lindi,No one,NaN,1684.396525
+36.79280833,-1.31466,842,Lindi,Kibera,Public space,Lindi,No one,None,1626.5
+36.79410556,-1.313851667,843,Lindi,Kibera,Education Facility,Lindi B Ushirika Nursery,Individual (eg business owner),NaN,1731
+36.79153,-1.313338333,844,Lindi,Kibera,Religious facility,Lindi Central PAG Assembly,Missing Values,NaN,1759.3
+36.79386667,-1.316698333,845,Lindi,Kibera,Religious facility,Lindi Friends Church,Missing Values,NaN,1714.1
+36.79097928,-1.314684933,846,Lindi,Kibera,Education Facility,Lindi friends school,Community group,NaN,1695.519312
+36.79178314,-1.314793031,847,Lindi,Kibera,Religious facility,Lindi mosque,Missing Values,NaN,1704.026156
+36.79341,-1.312493333,848,Mashimoni,Kibera,Religious facility,Lindi P.A.G Church Buliding,Missing Values,NaN,1745.5
+36.79323833,-1.312341667,849,Laini saba,Kibera,Religious facility,Lindi PAG church,Missing Values,NaN,1724.2
+36.79200917,-1.313633333,850,Lindi,Kibera,Public space,Lindi space,Community group,NaN,1729.75
+36.79502798,-1.31300765,851,Laini saba,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Line Saba Boda Boda Stage,No one,NaN,1692
+36.77945,-1.308005,852,Toi Market,Kibera,Education Facility,Little  prince school,Private company,N/A,1815.4
+36.77466709,-1.308047078,853,Ayany estate,Kibera,Education Facility,Little rock,NGO,Little rock,1757
+36.79412833,-1.313818333,854,Laini saba,Kibera,Religious facility,Live Gospel Ministry,Missing Values,NaN,1692
+36.79434167,-1.314018333,855,Lindi,Kibera,Religious facility,Live Gospel Ministry Nairobi :Kibera,Missing Values,NaN,1750.2
+36.77762333,-1.315311667,856,soweto west,Kibera,Religious facility,Living Bread Church,Missing Values,NaN,1763.9
+36.77588632,-1.309376573,857,Ayany estate,Kibera,Religious facility,Lomle Jamia mosque,Missing Values,NaN,1772
+36.79178222,-1.311113889,858,Mashimoni,Kibera,Education Facility,Love Africa Somi Schools,Community group,NaN,1717.4
+36.77269427,-1.30786426,859,Ayany estate,Kibera,Local organization/ NGO office,LOVI,Missing Values,NaN,1777
+36.79556,-1.316803333,860,Silanga,Kibera,Education Facility,Luciana Baby Care,Individual (eg business owner),NaN,1739.8
+36.77937167,-1.311213333,861,Olympic estate,Kibera,Religious facility,Lutheran Church,Missing Values,NaN,1756.2
+36.77626958,-1.31190015,862,Kianda,Kibera,Education Facility,M.C.K tusaidie watoto,NGO Other,Methodist Church,1756
+36.79515583,-1.315799937,863,Lindi,Kibera,Education Facility,M.O.C,Community group,NaN,1697.527781
+36.79546917,-1.315420833,864,Lindi,Kibera,Education Facility,M.O.C Kibera Junior Primary School,Community group,NaN,1717.95
+36.79615333,-1.314366667,865,Laini saba,Kibera,Pharmacy / chemist,Maendeleo Clinic,Missing Values,NaN,1713.4
+36.79583667,-1.314073333,866,Laini saba,Kibera,Religious facility,Magiwa P.A.G,Missing Values,NaN,1720.5
+36.79564061,-1.314232094,867,Lindi,Kibera,Religious facility,Magiwa P.A.G,Missing Values,NaN,1693.007235
+36.78573333,-1.30953,868,Makina,Kibera,Religious facility,Makina mousque,Missing Values,NaN,1770.3
+36.782665,-1.307548333,869,Makina,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Makina stage,Community group,N/A,1759.2
+36.788735,-1.309261667,870,Makongeni,Kibera,Public space,Makongeni,Community group,N/A,1763
+36.78885667,-1.309045,871,Makongeni,Kibera,Religious facility,Makongeni madrasa,Missing Values,NaN,1756.8
+36.788615,-1.308933333,872,Makongeni,Kibera,Religious facility,Makongeny,Missing Values,NaN,1754
+36.78638667,-1.31498,873,Gatwekera,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Mama Okinda stage,Individual (eg business owner),Dickson,1754.8
+36.776715,-1.317446667,874,Raila,Kibera,Education Facility,Maono Education Centre,Individual (eg business owner),None,1733.5
+36.78068167,-1.30793,875,Toi Market,Kibera,Local organization/ NGO office,Map kibera Trust,Missing Values,NaN,1769.9
+36.796035,-1.315661667,876,Silanga,Kibera,Religious facility,Maranatha Faith Assembly sillanga church,Missing Values,NaN,1690.2
+36.77471143,-1.311867675,877,Kianda,Kibera,Education Facility,Mary mother of hope,Community group,Mary mother of hope,1720
+36.78668,-1.311925,878,Kambi muru,Kibera,Religious facility,Mashimoni PAG church,Missing Values,NaN,1753.2
+36.79083333,-1.312771667,879,Mashimoni,Kibera,Education Facility,Mashimoni squatters  secondary school,Community group,None,1744.2
+36.79044667,-1.312656667,880,Lindi,Kibera,Education Facility,Mashimoni Squatters Primary,Community group,NaN,1734.7
+36.78193036,-1.31087266,881,Karanja estate,Kibera,Religious facility,Masjid jamia salama mosque,Missing Values,NaN,1742
+36.78908,-1.307473333,882,D.C village,Kibera,Religious facility,Masjidul munawar,Missing Values,NaN,1762
+36.78615953,-1.31203982,883,Kambi muru,Kibera,Religious facility,Masrno Mission St Joseph Church,Missing Values,NaN,1731
+36.78751833,-1.305746667,884,D.C village,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Matatu,No one,NaN,1778.3
+36.78162167,-1.310321667,885,Karanja estate,Kibera,Social hall / community centre / resource centre,Mchanganyiko social hall,Community group,Community,1761.6
+36.77622238,-1.3119122,886,Kianda,Kibera,Religious facility,Methodist,Missing Values,NaN,1755
+36.784515,-1.314211667,887,Gatwekera,Kibera,Education Facility,Miracle and Victory Children Center,Individual (eg business owner),NaN,1737.6
+36.790245,-1.316026667,888,Lindi,Kibera,Education Facility,Missionaries Of Charity Brothers New Life School,Individual (eg business owner),None,1684.5
+36.79515333,-1.315796667,889,Lindi,Kibera,Religious facility,Missions Outreach Church,Missing Values,NaN,1721.1
+36.79767833,-1.314228333,890,Laini saba,Kibera,Religious facility,Moses Oyoo,Missing Values,NaN,1721.6
+36.78009667,-1.315593333,891,Gatwekera,Kibera,Religious facility,Mowar Roho,Missing Values,NaN,1714.3
+36.78794833,-1.306246667,892,D.C village,Kibera,Local administrative office,Mp's office,Missing Values,NaN,1748.4
+36.79035278,-1.316031111,893,Lindi,Kibera,Religious facility,Musanda Holy Ghost Church of East Africa,Missing Values,NaN,1705.733333
+36.77972,-1.306896667,894,Toi Market,Kibera,Local organization/ NGO office,Muungano office,Missing Values,NaN,1781.4
+36.77704667,-1.315088333,895,soweto west,Kibera,Religious facility,Mwangaza Assembly Church,Missing Values,NaN,1746
+36.777125,-1.31504,896,soweto west,Kibera,Religious facility,Mwangaza Assembly Church,Missing Values,NaN,1791.3
+36.77966167,-1.313516667,897,Olympic estate,Kibera,Religious facility,My father's house ministry,Missing Values,NaN,1774.4
+36.78641833,-1.311995,898,Kambi muru,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1757
+36.78316833,-1.307998333,899,Makina,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1891
+36.78473667,-1.308543333,900,Makina,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1743.3
+36.78507167,-1.308835,901,Makina,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1739
+36.78204833,-1.307835,902,Makina,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1792.5
+36.78923833,-1.308743333,903,Makongeni,Kibera,Religious facility,N/A,Missing Values,NaN,1732.5
+36.78715333,-1.314195,904,Kambi muru,Kibera,Other,N/A,No one,N/A,1737.4
+36.78702833,-1.311313333,905,Kambi muru,Kibera,Public space,N/A,Community group,N/A,1744.5
+36.78598803,-1.314907623,906,Gatwekera,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1710
+36.78207041,-1.314359237,907,Gatwekera,Kibera,Pharmacy / chemist,N/A,Missing Values,NaN,1738
+36.779195,-1.30794,908,Toi Market,Kibera,Other,N/A,Community group,N/A,1819.6
+36.78104833,-1.30716,909,Toi Market,Kibera,Other,N/A,Community group,N/A,1787.5
+36.77930333,-1.30912,910,Toi Market,Kibera,Other,N/A,Community group,N/A,1757.6
+36.79695833,-1.315413333,911,Laini saba,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,NA,Community group,N/A,1620.9
+36.77629586,-1.313360617,912,Kianda,Kibera,Religious facility,Nabii Christian church,Missing Values,NaN,1732
+36.78275119,-1.313555036,913,Gatwekera,Kibera,Religious facility,Nabii Christian Church Of Kenya,Missing Values,NaN,1722
+36.77645572,-1.3116745,914,Kianda,Kibera,Religious facility,Nairobi Baptist church,Missing Values,NaN,1734
+36.78469667,-1.31103,915,Karanja estate,Kibera,Local organization/ NGO office,Ndungu Mdogo rescue center,Missing Values,NaN,1763.5
+36.79879833,-1.316778333,916,Silanga,Kibera,Education Facility,Neema Education Centre,Individual (eg business owner),NaN,1714.1
+36.77676167,-1.31492,917,soweto west,Kibera,Religious facility,Neema God's Choice Church,Missing Values,NaN,1746
+36.77676167,-1.314748333,918,soweto west,Kibera,Religious facility,Neema God's Church Ministries,Missing Values,NaN,1766.3
+36.78902778,-1.31188,919,Lindi,Kibera,Other,Network booster,Community group,NaN,1734.533333
+36.78072159,-1.31466459,920,Gatwekera,Kibera,Religious facility,New Alfa Church of Christ Roho,Missing Values,NaN,1746
+36.79535833,-1.31621,921,Silanga,Kibera,Religious facility,New Christian Of Christ Ministries,Missing Values,NaN,1710
+36.79670833,-1.313275,922,Laini saba,Kibera,Religious facility,New covenant gospel church,Missing Values,NaN,1730.5
+36.79418095,-1.318732281,923,Lindi,Kibera,Education Facility,New hope,Individual (eg business owner),NaN,1697.040333
+36.792005,-1.311576667,924,Mashimoni,Kibera,Education Facility,New Horizon Secondary School,Community group,None,1738
+36.78219667,-1.315848333,925,Gatwekera,Kibera,Public space,New Jerusalem,Individual (eg business owner),Kennedy otieno,1758.1
+36.78771667,-1.311453333,926,Kambi muru,Kibera,Pharmacy / chemist,New Jerusalem,Missing Values,NaN,1730.9
+36.786405,-1.314796667,927,Gatwekera,Kibera,Pharmacy / chemist,New Jerusalem,Missing Values,NaN,1746
+36.77281167,-1.309861667,928,Kianda,Kibera,Education Facility,New Life M.C School,Other,N/A,1769.7
+36.77256969,-1.309859413,929,Kianda,Kibera,Education Facility,New life- MC school,Other,Missionaries of charity brothers,1733
+36.78112,-1.307456667,930,Toi Market,Kibera,Religious facility,New Life Restoration Ministry,Missing Values,NaN,1732.2
+36.77945833,-1.314915,931,Olympic estate,Kibera,Public space,Nomiya,Other,None,1772.8
+36.77897833,-1.31701,932,soweto west,Kibera,Religious facility,Nomiya Church Parish Kibera,Missing Values,NaN,1653.2
+36.78049833,-1.313911667,933,Olympic estate,Kibera,Public space,None,No one,None,1780.3
+36.77977167,-1.313318333,934,Olympic estate,Kibera,Public space,None,No one,None,1771.8
+36.77730167,-1.31249,935,Olympic estate,Kibera,Public space,None,No one,None,1757.6
+36.77882,-1.315441667,936,soweto west,Kibera,Pharmacy / chemist,None,Missing Values,NaN,1754.7
+36.777755,-1.31525,937,soweto west,Kibera,Public space,None,No one,None,1759
+36.77686333,-1.314835,938,soweto west,Kibera,Public space,None,Other No one,None,1777.5
+36.77786333,-1.31774,939,soweto east,Kibera,Public space,None,No one,None,1724.9
+36.77719833,-1.31389,940,Olympic estate,Kibera,Public space,None,No one,None,1881.4
+36.77880833,-1.318076667,941,Raila,Kibera,Public space,None,No one,None,1778.5
+36.77684833,-1.316523333,942,soweto west,Kibera,Public space,None,No one,None,1762.3
+36.77517333,-1.313761667,943,Raila,Kibera,Religious facility,None,Missing Values,NaN,1736.4
+36.77523,-1.313941667,944,Raila,Kibera,Public space,None,No one,None,1836.7
+36.77576167,-1.317178333,945,Raila,Kibera,Pharmacy / chemist,Nyamora medical chemist,Missing Values,NaN,1726.1
+36.78956,-1.313528333,946,Kisumu ndogo,Kibera,Education Facility,Nyota center,Individual (eg business owner),NaN,1742.7
+36.78530667,-1.308211667,947,Makina,Kibera,Public space,NYS,Community group,N/A,1765.5
+36.80556833,-1.31482,948,soweto east,Kibera,Social hall / community centre / resource centre,ODM HALL- HIGH-RISE,No one,ODM PARTY,1704
+36.78431466,-1.314682988,949,Kisumu ndogo,Kibera,Education Facility,Oloo Education Centre,Individual (eg business owner) Other,Oloo,1726
+36.78068333,-1.3143,950,Olympic estate,Kibera,Religious facility,Olympic church of God,Missing Values,NaN,1777.6
+36.777845,-1.314745,951,Olympic estate,Kibera,Education Facility,Olympic Educational Centre,Other,NA,1782.1
+36.78012,-1.313408333,952,Olympic estate,Kibera,Education Facility,Olympic primary,National government,Govt,1780.5
+36.78013833,-1.313361667,953,Olympic estate,Kibera,Education Facility,Olympic secondary,County government,County government,1777.3
+36.77795833,-1.311823333,954,Olympic estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Olympic stage,Other,None,1772.7
+36.77739667,-1.31279,955,Olympic estate,Kibera,Public space,Olympic terminus,Other,Government,1757.9
+36.796335,-1.313025,956,Laini saba,Kibera,Education Facility,One Girl Can,NGO,NaN,1671.8
+36.79853,-1.318091667,957,Silanga,Kibera,Education Facility,Open gate of hope,Individual (eg business owner),NaN,1684
+36.774963,-1.31159078,958,Kianda,Kibera,Public space,Orthodox,Other,Orthodox church,1743
+36.793705,-1.311846667,959,Laini saba,Kibera,Religious facility,Osana church,Missing Values,NaN,1726.7
+36.78078,-1.313966667,960,Olympic estate,Kibera,Religious facility,Our Lady of Guadalupe parish,Missing Values,NaN,1780.5
+36.77502447,-1.31186955,961,Kianda,Kibera,Religious facility,Outreach ministries,Missing Values,NaN,1769
+36.79035994,-1.316153263,962,Lindi,Kibera,Religious facility,P.A.G.C Amani,Missing Values,NaN,1678.233604
+36.77961833,-1.31374,963,Olympic estate,Kibera,Education Facility,Palm olive Academy,Individual (eg business owner),NA,1769.7
+36.78053667,-1.313658333,964,Olympic estate,Kibera,Education Facility,Palm olive academy,Individual (eg business owner),N/A,1774.3
+36.77861167,-1.312756667,965,Olympic estate,Kibera,Other,Pamoja fm,Individual (eg business owner),N/A,1765.6
+36.77315257,-1.308639804,966,Ayany estate,Kibera,Pharmacy / chemist,Park drive,Missing Values,NaN,1761
+36.77986833,-1.314523333,967,Olympic estate,Kibera,Religious facility,Passion Mission Church,Missing Values,NaN,1768.9
+36.78200333,-1.307883333,968,Makina,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Patrick njiru,Community group,Njoroge Maina,1758
+36.779695,-1.310608333,969,Karanja estate,Kibera,Religious facility,PCEA,Missing Values,NaN,1798.2
+36.77955903,-1.3106909,970,Karanja estate,Kibera,Education Facility,PCEA Education center,Community group,PCEA church,1731
+36.797165,-1.317446667,971,Silanga,Kibera,Religious facility,PCEA Silanga Church,Missing Values,NaN,1707.7
+36.79728667,-1.317323333,972,Silanga,Kibera,Education Facility,PCEA Silanga High School,Other,NaN,1707.7
+36.79705,-1.317616667,973,Silanga,Kibera,Education Facility,PCEA Silanga Nursery School,Other,PCEA Church,1707.8
+36.7741375,-1.31053207,974,Kianda,Kibera,Religious facility,PEFA,Missing Values,NaN,1777
+36.79098833,-1.309956667,975,Mashimoni,Kibera,Religious facility,PEFA Church Kibera,Missing Values,NaN,1731.1
+36.79282167,-1.312761667,976,Mashimoni,Kibera,Religious facility,Pentecostal Flame Church,Missing Values,NaN,1753.1
+36.78168886,-1.315250611,977,Gatwekera,Kibera,Religious facility,Pentecostal Revival Church Of Christ,Missing Values,NaN,1732
+36.78844333,-1.311955,978,Kambi muru,Kibera,Pharmacy / chemist,Pharmacy,Missing Values,NaN,1731.7
+36.77940167,-1.314601667,979,Olympic estate,Kibera,Education Facility,Platinum Educational Centre,Individual (eg business owner),NA,1780
+36.77867,-1.309898333,980,Toi Market,Kibera,Police station,Police  Community post,Missing Values,NaN,1816.4
+36.777735,-1.314036667,981,Olympic estate,Kibera,Local organization/ NGO office,Polycom Development Project,Missing Values,NaN,1744.9
+36.78187167,-1.307136667,982,Toi Market,Kibera,Other,Pool facility,Individual (eg business owner),NaN,1763
+36.77974167,-1.314475,983,Olympic estate,Kibera,Education Facility,Project Elimu,NGO,NA,1769.5
+36.77192327,-1.30884765,984,Kianda,Kibera,Religious facility,Prophetic minitry,Missing Values,NaN,1755
+36.79653,-1.317913333,985,Silanga,Kibera,Religious facility,Pure gospel celebration center,Missing Values,NaN,1707.9
+36.78655833,-1.30981,986,Makongeni,Kibera,Pharmacy / chemist,Rahisi chemist,Missing Values,NaN,1723.1
+36.78326667,-1.312218333,987,Karanja estate,Kibera,Education Facility,Raila education center,National government,Government of Kenya,1791.8
+36.79404833,-1.312223333,988,Laini saba,Kibera,Education Facility,Rainbow Community Centre,Individual (eg business owner),NaN,1715.1
+36.79383184,-1.312320663,989,Lindi,Kibera,Education Facility,Rainbow community unity centre,Community group,NaN,1697.88898
+36.77423249,-1.310847262,990,Kianda,Kibera,Pharmacy / chemist,Ramogi chemist,Missing Values,NaN,1780
+36.77835167,-1.31756,991,Raila,Kibera,Religious facility,Rapture Harvest Mission Church,Missing Values,NaN,1725.2
+36.78035167,-1.314925,992,Gatwekera,Kibera,Social hall / community centre / resource centre,Red Leaf Video show Stadium,Individual (eg business owner),Mzito,1743.9
+36.777295,-1.31238,993,Olympic estate,Kibera,Education Facility,Redross primary,Individual (eg business owner),None,1757.5
+36.77730167,-1.312298333,994,Olympic estate,Kibera,Education Facility,Redross primary,Individual (eg business owner),None,1757.6
+36.77217641,-1.310002618,995,Kianda,Kibera,Religious facility,Rem church,Missing Values,NaN,1741
+36.77219991,-1.30998427,996,Kianda,Kibera,Education Facility,REM School,Individual (eg business owner) Community group NGO,NaN,1729
+36.78143667,-1.306996667,997,Toi Market,Kibera,Education Facility,Restoration  Educational  centre,Private company,N/A,1742.6
+36.7836674,-1.31219212,998,Karanja estate,Kibera,Religious facility,Restoration chapel,Missing Values,NaN,1731
+36.78362675,-1.31209322,999,Karanja estate,Kibera,Education Facility,Restoration Kindergarten,Individual (eg business owner),NaN,1709
+36.79364306,-1.314301944,1000,Lindi,Kibera,Religious facility,Revival Church of Shiloh,Missing Values,NaN,1726.033333
+36.79548,-1.315343333,1001,Silanga,Kibera,Religious facility,Revival Gospel Church,Missing Values,NaN,1691.8
+36.7762994,-1.31372995,1002,Kianda,Kibera,Religious facility,Roho,Missing Values,NaN,1739
+36.79421333,-1.313763333,1003,Laini saba,Kibera,Religious facility,Roho Israel Church,Missing Values,NaN,1720.1
+36.78318294,-1.316068098,1004,Gatwekera,Kibera,Religious facility,Roho Msalaba,Missing Values,NaN,1700
+36.79069008,-1.313015804,1005,Lindi,Kibera,Social hall / community centre / resource centre,Romande multipurpose hall,Individual (eg business owner),NaN,1705.310833
+36.78112959,-1.30948206,1006,Karanja estate,Kibera,Public space,Salama,No one,NaN,1719
+36.79425333,-1.31343,1007,Laini saba,Kibera,Education Facility,Salama Day care,Community group,NaN,1705.4
+36.77404674,-1.31133355,1008,Kianda,Kibera,Social hall / community centre / resource centre,Salvation army,Other,Salvation army,1751
+36.77399092,-1.311346488,1009,Kianda,Kibera,Religious facility,Salvation Army church,Missing Values,NaN,1753
+36.77374602,-1.31121779,1010,Kianda,Kibera,Education Facility,Salvation Army nursery school,Community group Other,Salvation Army church,1740
+36.77986167,-1.314525,1011,Olympic estate,Kibera,Religious facility,Samaritans Ark Church,Missing Values,NaN,1768.7
+36.77984167,-1.313438333,1012,Olympic estate,Kibera,Local administrative office,Sarang'ombe,Missing Values,NaN,1771.3
+36.79021833,-1.314618333,1013,Lindi,Kibera,Education Facility,Saviour King Education Centre,Individual (eg business owner),None,1720.1
+36.7974932,-1.31420011,1014,Laini saba,Kibera,Education Facility,SEEDS OF HOPE PRIMARY,Individual (eg business owner),NaN,1696
+36.78038333,-1.312143333,1015,Olympic estate,Kibera,Religious facility,Seventh Adventist Church,Missing Values,NaN,1733.1
+36.78109786,-1.314542675,1016,Gatwekera,Kibera,Religious facility,Seventh Day Adventist Church,Missing Values,NaN,1753
+36.77194113,-1.308196904,1017,Kianda,Kibera,Religious facility,Seventh day adventist Jamhuri,Missing Values,NaN,1751
+36.79878,-1.317788333,1018,Silanga,Kibera,Religious facility,Seventhday adventist undugu,Missing Values,NaN,1690.3
+36.78759167,-1.310205,1019,Makongeni,Kibera,Other,Sewage,NGO,NaN,1748.2
+36.7796,-1.309495,1020,Toi Market,Kibera,Other,Sewer line,No one,NaN,1766.6
+36.77915833,-1.308181667,1021,Toi Market,Kibera,Other,Sewer line,Community group,NaN,1767.9
+36.79387333,-1.316976667,1022,Lindi,Kibera,Education Facility,Shalyne educational Centre,Community group,None,1714.8
+36.79283909,-1.311789219,1023,Lindi,Kibera,Education Facility,Shofco,NGO,Shofco,1699.85871
+36.77371631,-1.31206849,1024,Kianda,Kibera,Social hall / community centre / resource centre,Shofco community centre,NGO,Shofco,1745
+36.77362715,-1.312149349,1025,Kianda,Kibera,Social hall / community centre / resource centre,SHOFCO community centre (3),NGO,SHOFCO,1740
+36.78614938,-1.315170773,1026,Gatwekera,Kibera,Education Facility,Shofco Kibera School For Girls,Individual (eg business owner),Ken odede,1693
+36.78652333,-1.309563333,1027,Kambi muru,Kibera,Local organization/ NGO office,Shofco urban network,Missing Values,NaN,1765.5
+36.782625,-1.313688333,1028,Gatwekera,Kibera,Social hall / community centre / resource centre,Shofco Y pp,Individual (eg business owner),Ken,1746.5
+36.79667667,-1.317126667,1029,Silanga,Kibera,Other,Silanga odm,Community group,ODm,1711
+36.77747333,-1.311281667,1030,Olympic estate,Kibera,Education Facility,Silver springs school,Individual (eg business owner),None,1769.9
+36.796765,-1.318386667,1031,Silanga,Kibera,Religious facility,Siranga PAG church,Missing Values,NaN,1663
+36.79228833,-1.31499,1032,Lindi,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Sixty eight,Individual (eg business owner),None,1722.7
+36.78881667,-1.313146667,1033,Kisumu ndogo,Kibera,Social hall / community centre / resource centre,Skyrope social hall,Individual (eg business owner),NaN,1736.1
+36.77887167,-1.315246667,1034,soweto west,Kibera,Education Facility,Smiling Face,Individual (eg business owner),None,1751.2
+36.7915007,-1.31438063,1035,Lindi,Kibera,Public space,Sokomoko,Community group,NaN,1711.887862
+36.79912333,-1.31537,1036,soweto east,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,SOWETO 58 JUNCTION,Community group,SOWETO 58,1704.9
+36.77607,-1.316066667,1037,soweto west,Kibera,Education Facility,Soweto Academy,Individual (eg business owner),NA,1734.1
+36.77594667,-1.316065,1038,soweto west,Kibera,Education Facility,Soweto Academy,Individual (eg business owner),NA,1734.5
+36.80054333,-1.316871667,1039,Silanga,Kibera,Education Facility,Soweto Baptist High School,Individual (eg business owner),NaN,1710.2
+36.77654167,-1.316586667,1040,soweto east,Kibera,Public space,Soweto darajani,No one,None,1763.1
+36.79974833,-1.315136667,1041,soweto east,Kibera,Social hall / community centre / resource centre,SOWETO EAST RESOURCE CENTER,Other,UNITED NATIONS,1692.8
+36.77114217,-1.31039334,1042,Kianda,Kibera,Education Facility,Soweto junior centre,Individual (eg business owner),Individual,1740
+36.800375,-1.315668333,1043,soweto east,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,SOWETO RESOURCE CENTER STAGE,Other,SOSIMA,1869.6
+36.796455,-1.314746667,1044,Laini saba,Kibera,Pharmacy / chemist,Sprout Medical Clinic,Missing Values,NaN,1633.3
+36.77991333,-1.314408333,1045,Olympic estate,Kibera,Education Facility,Spurgeons Child Care Kenya,Individual (eg business owner),NA,1768.9
+36.79553,-1.316806667,1046,Silanga,Kibera,Pharmacy / chemist,St  marys Chemist,Missing Values,NaN,1726.2
+36.79843833,-1.317646667,1047,Silanga,Kibera,Religious facility,"St Daniel Combon shilanga,Christ The King Catholic Parish",Missing Values,NaN,1732.1
+36.78324833,-1.314946667,1048,Gatwekera,Kibera,Religious facility,St Elizabeth Church,Missing Values,NaN,1738.4
+36.77500606,-1.311568986,1049,Kianda,Kibera,Religious facility,St George's Orthodox Church,Missing Values,NaN,1733
+36.79623833,-1.318281667,1050,Silanga,Kibera,Education Facility,St john,Community group,NaN,1696.9
+36.77183624,-1.30861913,1051,Kianda,Kibera,Religious facility,St luck outstation catholic church,Missing Values,NaN,1743
+36.77198619,-1.31093988,1052,Kianda,Kibera,Education Facility,St michaels holy unity,Individual (eg business owner),NaN,1736
+36.778855,-1.315233333,1053,soweto west,Kibera,Religious facility,St Sam Roho Lwanda,Missing Values,NaN,1790.6
+36.78892,-1.309126667,1054,Makongeni,Kibera,Religious facility,St Thomas Catholic Church,Missing Values,NaN,1761.5
+36.77755,-1.317423333,1055,Raila,Kibera,Education Facility,"St,Stephen Educational Centre",Individual (eg business owner),None,1730.8
+36.79792833,-1.31322,1056,soweto east,Kibera,Religious facility,ST. BAKHITA CATHOLIC CHURCH SIWETO,Missing Values,NaN,1716.9
+36.78621167,-1.312143333,1057,Kambi muru,Kibera,Religious facility,St. Joseph Darajani,Missing Values,NaN,1778.7
+36.782615,-1.314651667,1058,Gatwekera,Kibera,Education Facility,St. Judy Center,Individual (eg business owner),NaN,1732.5
+36.783615,-1.314883333,1059,Gatwekera,Kibera,Education Facility,St. Stephen Education Center,Individual (eg business owner),NaN,1745.3
+36.777495,-1.314178333,1060,Olympic estate,Kibera,Education Facility,St. Vincent De Paul Nursery School,NGO,NA,1744.9
+36.79780667,-1.317266667,1061,Silanga,Kibera,Pharmacy / chemist,St.Andrews De Paul Medical Centre,Missing Values,NaN,1730.1
+36.77713167,-1.317513333,1062,Raila,Kibera,Education Facility,St.Christine Educational Centre,Individual (eg business owner),None,1867.8
+36.77695667,-1.317451667,1063,Raila,Kibera,Education Facility,St.Christine Educational centre,Individual (eg business owner),None,1725.6
+36.77498566,-1.31160835,1064,Kianda,Kibera,Education Facility,St.george orthodox,Other,NaN,1733
+36.80101833,-1.317293333,1065,Silanga,Kibera,Education Facility,St.marys Education Centre,Individual (eg business owner),NaN,1715.1
+36.79196333,-1.312468333,1066,Lindi,Kibera,Education Facility,St.Mary's High School,Individual (eg business owner),None,1733.1
+36.77672694,-1.31204581,1067,Kianda,Kibera,Education Facility,St.peters,Individual (eg business owner),NaN,1752
+36.78155833,-1.310428333,1068,Karanja estate,Kibera,Education Facility,Star of the land education center,Community group,N/a,1773
+36.78626833,-1.31161,1069,Karanja estate,Kibera,Education Facility,Stara rescue center and school,Community group,Stara peace women organization,1725.4
+36.78644167,-1.31172,1070,Kambi muru,Kibera,Education Facility,Stara Rescue Centre and Schoool,NGO,NaN,1779.9
+36.777105,-1.314376667,1071,Olympic estate,Kibera,Education Facility,Starays High School,Individual (eg business owner),NA,1752.1
+36.78117,-1.310578333,1072,Karanja estate,Kibera,Education Facility,Starlight day care center,Individual (eg business owner),N/a,1772.9
+36.77303254,-1.30809892,1073,Ayany estate,Kibera,Religious facility,Strong City family church,Missing Values,NaN,1757
+36.77901,-1.314878333,1074,Olympic estate,Kibera,Pharmacy / chemist,Subra medical center,Missing Values,NaN,1771.7
+36.792815,-1.31532,1075,Lindi,Kibera,Pharmacy / chemist,Sulda chemist,Missing Values,NaN,1759.1
+36.79495167,-1.316596667,1076,Silanga,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Sunday studio,No one,NaN,1730.6
+36.77883,-1.314415,1077,Olympic estate,Kibera,Education Facility,Sunflower early education and development,Individual (eg business owner),NA,1765.3
+36.77888,-1.313845,1078,Olympic estate,Kibera,Local organization/ NGO office,Swahiba networks,Missing Values,NaN,1746.6
+36.78095667,-1.307131667,1079,Toi Market,Kibera,Social hall / community centre / resource centre,Team tank,Community group,NaN,1733.6
+36.77955,-1.306896667,1080,Toi Market,Kibera,Local organization/ NGO office,Tekra Office,Missing Values,NaN,1798.9
+36.77622671,-1.308782045,1081,Ayany estate,Kibera,Education Facility,Tenderlings school,Individual (eg business owner),Individual,1744
+36.77646,-1.314423333,1082,soweto west,Kibera,Local organization/ NGO office,The African Bone Workshop,Missing Values,NaN,1629.9
+36.777885,-1.316986667,1083,Raila,Kibera,Education Facility,The Church On The Rock,Individual (eg business owner),None,1704.3
+36.77398434,-1.30868025,1084,Ayany estate,Kibera,Religious facility,The door christian fellowship,Missing Values,NaN,1757
+36.79709333,-1.317135,1085,Silanga,Kibera,Religious facility,The Door Christian Fellowship Church,Missing Values,NaN,1694
+36.780915,-1.314673333,1086,Gatwekera,Kibera,Education Facility,The Global One Kibera School,Individual (eg business owner),NaN,1728.8
+36.78164033,-1.315224417,1087,Gatwekera,Kibera,Education Facility,The Global One Secondary School,Community group,Global One foundation,1734
+36.78541,-1.3118,1088,Karanja estate,Kibera,Education Facility,The great achievers cb education,Individual (eg business owner),Great achievers,1773.5
+36.77886833,-1.31687,1089,Gatwekera,Kibera,Religious facility,The Holy Trinity Church,Missing Values,NaN,1639.6
+36.79646667,-1.314493333,1090,Laini saba,Kibera,Local organization/ NGO office,The junction youth group theatre,Missing Values,NaN,1646.5
+36.77871333,-1.314548333,1091,Olympic estate,Kibera,Education Facility,The promised Land academy,Individual (eg business owner),N/A,1771.1
+36.79660333,-1.315363333,1092,Laini saba,Kibera,Religious facility,THE SALVATION ARMY - KENYATTA CORPS,Missing Values,NaN,1705.3
+36.78199333,-1.316101667,1093,Gatwekera,Kibera,Education Facility,The Seed School Kibera,Individual (eg business owner),NaN,1783.6
+36.79403566,-1.313802925,1094,Lindi,Kibera,Religious facility,The true centre ministries,Missing Values,NaN,1689.298742
+36.78209167,-1.310885,1095,Karanja estate,Kibera,Education Facility,Three bells,Individual (eg business owner),Kimilu,1875.8
+36.77865333,-1.311218333,1096,Olympic estate,Kibera,Education Facility,Three bells nursery,Individual (eg business owner),None,1773.2
+36.77871167,-1.311263333,1097,Olympic estate,Kibera,Education Facility,Three bells nursery,Individual (eg business owner),None,1772.7
+36.78177833,-1.310276667,1098,Makina,Kibera,Market,Toi market,Individual (eg business owner),NaN,1748.6
+36.78229167,-1.307498333,1099,Toi Market,Kibera,Market,Toi Market,County government,NaN,1767.2
+36.78024167,-1.30559,1100,Toi Market,Kibera,Education Facility,Toi primary school,County government,NaN,1779.1
+36.781352,-1.30038,1101, , ,Market,Toy Market,Individual (eg business owner),NaN,0
+36.79016,-1.31086,1102,Mashimoni,Kibera,Education Facility,Transform F.Hope  Centre,Individual (eg business owner),None,1726.5
+36.797445,-1.313253333,1103,Laini saba,Kibera,Education Facility,Tree Hill School,Individual (eg business owner),NaN,1717.6
+36.77624333,-1.316341667,1104,soweto east,Kibera,Religious facility,Trinity Santuary Belivers Church,Missing Values,NaN,1736.1
+36.79730167,-1.316853333,1105,Silanga,Kibera,Religious facility,True Christian Gospel Living Ministry,Missing Values,NaN,1732
+36.79178539,-1.311507804,1106,Mashimoni,Kibera,Education Facility,True leaner school,Individual (eg business owner),NaN,1709.668314
+36.78777167,-1.311061667,1107,Makongeni,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Tuk tuk stage,Community group,N/A,1727.8
+36.79403015,-1.312285296,1108,Lindi,Kibera,Religious facility,Tumain A.I.C,Missing Values,NaN,1704.918792
+36.78472705,-1.312833186,1109,Kisumu ndogo,Kibera,Religious facility,Tumaini,Missing Values,NaN,1713
+36.79404167,-1.312148333,1110,Laini saba,Kibera,Religious facility,TUMAINI A.I.C  LAINI SABA,Missing Values,NaN,1743.7
+36.78470744,-1.312835743,1111,Kisumu ndogo,Kibera,Education Facility,Tumaini academy,Individual (eg business owner),NaN,1721
+36.78739309,-1.31197028,1112,Kambi muru,Kibera,Pharmacy / chemist,Tumaini Chemist,Missing Values,NaN,1730
+36.79240924,-1.316254998,1113,Lindi,Kibera,Education Facility,Ujamaa school,Individual (eg business owner),Jackson injinia,1693.286819
+36.79339998,-1.313722301,1114,Lindi,Kibera,Religious facility,Unabi church,Missing Values,NaN,1693.169338
+36.79957,-1.317503333,1115,Silanga,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Undugu BodaStage,No one,NaN,1723.6
+36.78293928,-1.316177398,1116,Gatwekera,Kibera,Religious facility,Undugu Family of Hope,Missing Values,NaN,1714
+36.79987,-1.317701667,1117,Silanga,Kibera,Public space,Undugu playing ground,Community group,NaN,1717.4
+36.79963333,-1.317566667,1118,Silanga,Kibera,Police station,Undugu police post,Missing Values,NaN,1723.7
+36.800415,-1.317343333,1119,Silanga,Kibera,Social hall / community centre / resource centre,Undugu social hall,Community group,NaN,1715.9
+36.776535,-1.31468,1120,soweto west,Kibera,Religious facility,United Pentecostal Church,Missing Values,NaN,1734.8
+36.77427205,-1.310603516,1121,Ayany estate,Kibera,Religious facility,Universal church,Missing Values,NaN,1757
+36.78090667,-1.307415,1122,Toi Market,Kibera,Religious facility,Universal Pentecostal everngelism church,Missing Values,NaN,1787.5
+36.79415,-1.313511667,1123,Laini saba,Kibera,Public space,Usalama,Community group,NaN,1720.3
+36.77251908,-1.30791219,1124,Kianda,Kibera,Social hall / community centre / resource centre,Ushirika,NGO,NaN,1754
+36.77264744,-1.30796983,1125,Ayany estate,Kibera,Transport stops (matatus/ boda-boda) - formal & informal,Ushirika,No one,NaN,1790
+36.79647167,-1.31304,1126,Laini saba,Kibera,Education Facility,Ushirika children center,UN Agency NGO,N/A,1672.1
+36.79575,-1.313438333,1127,Laini saba,Kibera,Education Facility,Ushirika Girls Secondary,Individual (eg business owner),NaN,1713.5
+36.772535,-1.30918,1128,Kianda,Kibera,Social hall / community centre / resource centre,Ushirika Library,Community group,N/A,1768.8
+36.78447209,-1.31180356,1129,Karanja estate,Kibera,Education Facility,Utu Academy,Individual (eg business owner),Adada  Ahmed Ibrahim,1742
+36.78391333,-1.311781667,1130,Karanja estate,Kibera,Local organization/ NGO office,Uweza foundation,Missing Values,NaN,1771.5
+36.784875,-1.312643333,1131,Kisumu ndogo,Kibera,Social hall / community centre / resource centre,Villa para stadium,Individual (eg business owner),NaN,1750.2
+36.78224833,-1.315888333,1132,Gatwekera,Kibera,Social hall / community centre / resource centre,Villa Park Stadium,Individual (eg business owner),NaN,1774.3
+36.79540333,-1.31333,1133,Makina,Kibera,Pharmacy / chemist,Vinyl Chemist,Missing Values,NaN,1741.3
+36.79172,-1.314176667,1134,Lindi,Kibera,Pharmacy / chemist,Vinyl Dispensing chemist,Missing Values,NaN,1719.1
+36.79724505,-1.31290328,1135,Laini saba,Kibera,Religious facility,Vision Of Faith Gospel Church,Missing Values,NaN,1703
+36.7732426,-1.30938525,1136,Kianda,Kibera,Social hall / community centre / resource centre,Vision sisters,Community group Other,Vision sisters,1761
+36.77321493,-1.309353565,1137,Kianda,Kibera,Social hall / community centre / resource centre,Vision sisters working group,NGO,Vision sisters,1758
+36.79544667,-1.31338,1138,Laini saba,Kibera,Religious facility,Vital Solution Elevation churh,Missing Values,NaN,1718.7
+36.79767,-1.314726667,1139,Laini saba,Kibera,Religious facility,VOICE IF DELIVERANCE & HEALING MINISTRY,Missing Values,NaN,1716.6
+36.77872833,-1.315255,1140,soweto west,Kibera,Religious facility,Voice of Salvation,Missing Values,NaN,1774.8
+36.78740167,-1.31402,1141,Kambi muru,Kibera,Social hall / community centre / resource centre,Wasakaji youth group,Community group,N/A,1709.3
+36.78726167,-1.314213333,1142,Kambi muru,Kibera,Other,Washroom,Individual (eg business owner),NaN,1762.7
+36.78726333,-1.314226667,1143,Kambi muru,Kibera,Other,Washroom,Individual (eg business owner),NaN,1762.4
+36.78827333,-1.312373333,1144,Kambi muru,Kibera,Education Facility,Watumoja Lee,Individual (eg business owner),N/A,1733.6
+36.783685,-1.31164,1145,Karanja estate,Kibera,Education Facility,Wee care daycare,Individual (eg business owner),N/A,1758.5
+36.77613709,-1.3109481,1146,Ayany estate,Kibera,Education Facility,Westhill kids centre,Individual (eg business owner),NaN,1763
+36.78685644,-1.31175161,1147,Kambi muru,Kibera,Religious facility,White Garment Church,Missing Values,NaN,1757
+36.77645646,-1.314079743,1148,Kianda,Kibera,Education Facility,Wilson childcare centre,Individual (eg business owner),Individual,1714
+36.795985,-1.31724,1149,Silanga,Kibera,Education Facility,Wings of life,Community group,NaN,1720.4
+36.78507376,-1.31159408,1150,Karanja estate,Kibera,Education Facility,Wisdom Ashrays Center,Individual (eg business owner),NaN,1739
+36.77298333,-1.310141667,1151,Kianda,Kibera,Religious facility,Word Bible Church,Missing Values,NaN,1772
+36.78353167,-1.316303333,1152,Gatwekera,Kibera,Religious facility,Working Faith Fellowship,Missing Values,NaN,1678.6
+36.77601333,-1.314381667,1153,soweto west,Kibera,Religious facility,World Reconciliation Ministries,Missing Values,NaN,1734.4
+36.78807312,-1.311581811,1154,Lindi,Kibera,Other,Yettohsan,Individual (eg business owner),NaN,1723.443806
+36.78057508,-1.315572895,1155,Gatwekera,Kibera,Health facility,Young Health Programme Kenya United,Community group,Plan International,1728
+36.78281,-1.313791667,1156,Gatwekera,Kibera,Religious facility,Youngsters For Christ Team,Missing Values,NaN,1766.8
+36.78735667,-1.311136667,1157,Kambi muru,Kibera,Social hall / community centre / resource centre,Youth Reform Self Help Group,Community group,N/A,1750.5
+36.7985,-1.31716,1158,Silanga,Kibera,Education Facility,Zelyn Academy,Individual (eg business owner),NaN,1729.5
+36.78781,-1.305995,1159,D.C village,Kibera,Hand washing facility,NaN,County government,Government,1751.3
+36.78687333,-1.311848333,1160,Kambi muru,Kibera,Hand washing facility,NaN,Community group,Shofco,1750.8
+36.785955,-1.313655,1161,Kambi muru,Kibera,Hand washing facility,NaN,NGO,UNICEF,1729.4
+36.7967136,-1.3151829,1162,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,Facility_Management,NaN,1669
+36.77672,-1.314133333,1163,Olympic estate,Kibera,Waste collection bin / open dumping area,NaN,No one,NA,1751.4
+36.78341167,-1.306601667,1164,D.C village,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1753.6
+36.77661833,-1.312228333,1165,Olympic estate,Kibera,Waste collection bin / open dumping area,NaN,No one,NA,1766.4
+36.783275,-1.306541667,1166,Makina,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1750.8
+36.78651667,-1.311893333,1167,Karanja estate,Kibera,Waste collection bin / open dumping area,NaN,County government,N/A,1768.6
+36.78785167,-1.31093,1168,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,Community group,Gogo,1744.4
+36.78764456,-1.30924825,1169,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1725
+36.788665,-1.309255,1170,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1764.1
+36.78858833,-1.30833,1171,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1699.2
+36.78911167,-1.308263333,1172,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1738.7
+36.78829167,-1.311298333,1173,Kambi muru,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1937.9
+36.789085,-1.309043333,1174,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1746.9
+36.78761333,-1.313483333,1175,Kambi muru,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1762.7
+36.78748167,-1.314186667,1176,Kambi muru,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1722
+36.78872167,-1.308555,1177,Makongeni,Kibera,Waste collection bin / open dumping area,NaN,No one,N/A,1726.8
+36.78646167,-1.311666667,1178,Kambi muru,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1779.6
+36.78761667,-1.314323333,1179,Kambi muru,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1711
+36.78678833,-1.312938333,1180,Kambi muru,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1767.1
+36.7988,-1.31533,1181,soweto east,Kibera,Waste collection bin / open dumping area,NaN,No one,N/A,1717.4
+36.78974166,-1.310258849,1182,Mashimoni,Kibera,Waste collection bin / open dumping area,NaN,Other,NaN,1711.091738
+36.78984298,-1.310786248,1183,Mashimoni,Kibera,Waste collection bin / open dumping area,NaN,No one,Darajani,1706.158501
+36.77754333,-1.31531,1184,soweto west,Kibera,Waste collection bin / open dumping area,NaN,Other,None,1763.9
+36.77678167,-1.314441667,1185,soweto west,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1754.7
+36.77653,-1.316508333,1186,soweto west,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1763
+36.77871833,-1.316911667,1187,Gatwekera,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1655.5
+36.77863667,-1.316925,1188,soweto west,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1665.8
+36.77833833,-1.31744,1189,Raila,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1722.5
+36.77759,-1.317681667,1190,Raila,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1726.3
+36.77413833,-1.31717,1191,Raila,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1739.2
+36.77898333,-1.31516,1192,soweto west,Kibera,Waste collection bin / open dumping area,NaN,Other,None,1779.1
+36.78475667,-1.315506667,1193,Gatwekera,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1674
+36.77184499,-1.308741602,1194,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1738
+36.77256944,-1.311801039,1195,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,N/A,1725
+36.79334171,-1.31181801,1196,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1719
+36.79739333,-1.313253333,1197,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1692.1
+36.78057667,-1.307771667,1198,Toi Market,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1766.2
+36.77809667,-1.309493333,1199,Toi Market,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/A,1754.7
+36.77629611,-1.312880293,1200,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,N/A,1729
+36.77644156,-1.31418214,1201,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one Community group County government,NaN,1750
+36.77652169,-1.31218362,1202,Kianda,Kibera,Waste collection bin / open dumping area,NaN,County government,County government,1747
+36.775515,-1.313811667,1203,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1738.3
+36.77528333,-1.31541,1204,soweto west,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1855.8
+36.77667667,-1.316425,1205,soweto west,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1763.7
+36.77512667,-1.313636667,1206,Raila,Kibera,Waste collection bin / open dumping area,NaN,Other,None,1736.3
+36.774945,-1.313958333,1207,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1838.4
+36.77490333,-1.313928333,1208,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1838.5
+36.77317667,-1.31275,1209,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1493.5
+36.77148667,-1.312438333,1210,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1494.2
+36.77288,-1.312363333,1211,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1677.6
+36.77308667,-1.312116667,1212,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1837.1
+36.77300167,-1.312211667,1213,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1837.2
+36.773075,-1.312141667,1214,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1837.2
+36.77375,-1.312245,1215,Kianda,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1748
+36.795135,-1.313135,1216,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,No one,N/A,1741.8
+36.79765,-1.315388333,1217,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,No one,N/A,1725.1
+36.79173057,-1.312836141,1218,Lindi,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1691.689448
+36.79376801,-1.312492665,1219,Mashimoni,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1694.201836
+36.79734833,-1.313321667,1220,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1729.2
+36.79058544,-1.313589296,1221,Lindi,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1711.522618
+36.79126267,-1.312515,1222,Lindi,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1773.56
+36.79254167,-1.314438333,1223,Lindi,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1732.4
+36.79290167,-1.31448,1224,Lindi,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1732.3
+36.79561,-1.314736667,1225,Lindi,Kibera,Waste collection bin / open dumping area,NaN,No one,None,1715.7
+36.79455208,-1.3155925,1226,Lindi,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1723.325
+36.79143278,-1.315426667,1227,Lindi,Kibera,Waste collection bin / open dumping area,NaN,Community group,Unknown,1690.466667
+36.79135417,-1.316696667,1228,Lindi,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1705.5
+36.78477333,-1.305976667,1229,D.C village,Kibera,Waste collection bin / open dumping area,NaN,County government,County government,1754
+36.78065,-1.31237,1230,Olympic estate,Kibera,Waste collection bin / open dumping area,NaN,Other,Uniliver,1751.7
+36.80099833,-1.317468333,1231,Silanga,Kibera,Waste collection bin / open dumping area,NaN,Community group,NaN,1715.4
+36.78265333,-1.314975,1232,Gatwekera,Kibera,Waste collection bin / open dumping area,NaN,No one,NaN,1739.9
+36.79656,-1.31411,1233,Laini saba,Kibera,Waste collection bin / open dumping area,NaN,Community group,N/a,1671.5
+36.78948833,-1.312861667,1234,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1722.9
+36.788985,-1.312291667,1235,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1722.7
+36.786235,-1.312478333,1236,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1938.2
+36.78696333,-1.311838333,1237,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1753.3
+36.78665667,-1.311875,1238,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1757.9
+36.78661,-1.311571667,1239,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Yuseid .. partner with umando trust,1779.8
+36.78758,-1.309181667,1240,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Nairoby water,1772.3
+36.799505,-1.317578333,1241,Silanga,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1724.6
+36.77332073,-1.30967091,1242,Kianda,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1744
+36.77353334,-1.30991384,1243,Kianda,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1769
+36.79909333,-1.318131667,1244,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nys,1662.3
+36.79807833,-1.3183,1245,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nys,1699.6
+36.78704167,-1.30696,1246,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1764
+36.77754833,-1.313738333,1247,Olympic estate,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1752.4
+36.78581667,-1.306016667,1248,D.C village,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1783.9
+36.78183833,-1.307143333,1249,Toi Market,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1759.2
+36.79176083,-1.31442,1250,Lindi,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1736.85
+36.78970667,-1.313038333,1251,Lindi,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1732.55
+36.77774333,-1.307518333,1252,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1766.3
+36.78107,-1.307628333,1253,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1787.6
+36.77848,-1.309773333,1254,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1770
+36.78096167,-1.30755,1255,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1769.3
+36.77783667,-1.307613333,1256,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1755.1
+36.77810833,-1.309026667,1257,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1754.4
+36.77878,-1.308968333,1258,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1767.7
+36.77923333,-1.310628333,1259,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1751.8
+36.77957167,-1.306821667,1260,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1768.3
+36.78060333,-1.307843333,1261,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1759.3
+36.78103,-1.307636667,1262,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1753.3
+36.77930333,-1.309218333,1263,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1819.2
+36.78640829,-1.313447622,1264,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner) Other No one,NaN,1692
+36.78880451,-1.31360231,1265,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1699
+36.78477324,-1.312730173,1266,Kisumu ndogo,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1725
+36.78605333,-1.306981667,1267,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NYS,1741
+36.78396667,-1.306348333,1268,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NYS,1750
+36.78679167,-1.307323333,1269,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,County government,Government,1782.6
+36.78590167,-1.308098333,1270,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Zakia Abdulrahim,1751.3
+36.78615,-1.308573333,1271,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,County government,NYS,1751.2
+36.785705,-1.308628333,1272,D.C village,Kibera,Flood light,NaN,County government,Government,1760
+36.78161333,-1.310345,1273,Toi Market,Kibera,Water point,NaN,Community group,NaN,1791.6
+36.78670833,-1.311356667,1274,Karanja estate,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Mashujaa,1755.6
+36.79479167,-1.317265,1275,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Nys,1719.1
+36.79516167,-1.316946667,1276,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1720.9
+36.79611167,-1.317291667,1277,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1666
+36.79671833,-1.317365,1278,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,Umande trust,1710.2
+36.796925,-1.317495,1279,Silanga,Kibera,Flood light,NaN,County government,County government,1728.9
+36.785745,-1.307973333,1280,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,National youth service,1752.5
+36.78656833,-1.307081667,1281,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,National youth service,1764.2
+36.78793333,-1.306391667,1282,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,National youth service,1764.9
+36.78821667,-1.306776667,1283,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,National youth service,1779.9
+36.78272833,-1.307136667,1284,D.C village,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1776.9
+36.78458333,-1.306558333,1285,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,National youth service,1751.7
+36.78476,-1.306108333,1286,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Tenants,1751.7
+36.78571333,-1.306883333,1287,D.C village,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,National youth service,1762.6
+36.78144928,-1.31041923,1288,Karanja estate,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1759
+36.78492,-1.313216239,1289,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,County government,County government,1719
+36.78518898,-1.313456967,1290,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,County government,County government,1706
+36.78560631,-1.314199772,1291,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Mwangi,1693
+36.78673795,-1.313558305,1292,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,County government,County government,1702
+36.78748721,-1.314238789,1293,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Linus sijenyi,1702
+36.78688405,-1.314425999,1294,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,County government,County government,1697
+36.78528713,-1.313115614,1295,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1712
+36.77286683,-1.307924534,1296,Ayany estate,Kibera,Flood light,NaN,County government,County government,1759
+36.77588448,-1.310165226,1297,Ayany estate,Kibera,Flood light,NaN,County government,County government,1771
+36.77383494,-1.310240664,1298,Kianda,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1775
+36.7824,-1.307746667,1299,Makina,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1763.9
+36.77874667,-1.311295,1300,Olympic estate,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Kamuok,1772.9
+36.77737167,-1.312906667,1301,Olympic estate,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,County government,1758.8
+36.77740833,-1.312801667,1302,Olympic estate,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1757.7
+36.78563333,-1.308673333,1303,Makina,Kibera,Flood light,NaN,Community group,N/A,1770.2
+36.78321,-1.307861667,1304,Makina,Kibera,Flood light,NaN,Community group,N/A,1758.8
+36.79917833,-1.3147,1305,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1699.4
+36.79969,-1.315256667,1306,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1699.2
+36.79882833,-1.315183333,1307,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,ATHI WATER,1704.9
+36.79907667,-1.314676667,1308,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1737.6
+36.79895667,-1.317968333,1309,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Nys,1696.3
+36.7953,-1.318196667,1310,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1673.3
+36.78118,-1.30956,1311,Karanja estate,Kibera,Flood light,NaN,National government,N/A,1759.5
+36.78559,-1.311396667,1312,Karanja estate,Kibera,Flood light,NaN,County government,N/a,1772.8
+36.78490833,-1.313065,1313,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Government,1773.7
+36.78551667,-1.314053333,1314,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1718.5
+36.78442667,-1.312933333,1315,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1761.3
+36.78634667,-1.31435,1316,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Government,1749.2
+36.78515,-1.313718333,1317,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Ochieng,1737.5
+36.787445,-1.313958333,1318,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1753.2
+36.78774667,-1.313866667,1319,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Musa,1756
+36.788255,-1.314035,1320,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Government,1730.1
+36.78649,-1.313778333,1321,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1716.5
+36.788835,-1.313616667,1322,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Elvis odhiambo,1727.2
+36.78656167,-1.314088333,1323,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1724.2
+36.78735,-1.313438333,1324,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Jerry odhiambo,1736.3
+36.78578833,-1.313483333,1325,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Alfred,1718.4
+36.78433833,-1.313008333,1326,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1732.8
+36.78429,-1.312791667,1327,Kisumu ndogo,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Ogwes,1743
+36.79346709,-1.316669694,1328,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1696.522981
+36.79415391,-1.316826986,1329,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,County government,Nys,1698.890954
+36.79363743,-1.315168422,1330,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1696.929377
+36.79223167,-1.31507,1331,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1721.9
+36.79186833,-1.315735,1332,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1720.8
+36.79265167,-1.31569,1333,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,County government,County government,1729.8
+36.794115,-1.316763333,1334,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1697.1
+36.79358333,-1.315265,1335,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,County government,County government,1695.8
+36.79435,-1.313568333,1336,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1702.6
+36.793045,-1.31114,1337,Mashimoni,Kibera,Communal sanitation facility (eg toilet),NaN,County government,National youth service,1714.3
+36.78852667,-1.30796,1338,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1746.8
+36.78831042,-1.311442083,1339,Lindi,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1749.75
+36.78880635,-1.30832176,1340,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National Youth Service,1721
+36.78746934,-1.31105837,1341,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1709
+36.78770333,-1.309128333,1342,Makongeni,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1765.9
+36.78809167,-1.310183333,1343,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Switzerland friends,1726.9
+36.78730667,-1.310276667,1344,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1727
+36.78779167,-1.310843333,1345,Makongeni,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1727.3
+36.78796833,-1.309228333,1346,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1757.9
+36.788645,-1.309243333,1347,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1757.8
+36.78784833,-1.31016,1348,Makongeni,Kibera,Flood light,NaN,Community group,N/A,1746.2
+36.78783,-1.311246667,1349,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1747
+36.787975,-1.311818333,1350,Kambi muru,Kibera,Flood light,NaN,Community group,Government,1744.2
+36.78773833,-1.313291667,1351,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1709.4
+36.78897667,-1.312325,1352,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1730.7
+36.788735,-1.312591667,1353,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1732.8
+36.78877833,-1.312575,1354,Kambi muru,Kibera,Flood light,NaN,No one,N/A,1732.8
+36.7873,-1.312245,1355,Kambi muru,Kibera,Flood light,NaN,National government,Government of Kenya,1776.1
+36.78827565,-1.31179643,1356,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Natonal Youth Service,1733
+36.78660667,-1.308535,1357,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,City council,1738.5
+36.78894833,-1.308375,1358,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1753.9
+36.78899833,-1.308875,1359,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1753.7
+36.78809333,-1.309898333,1360,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1750.2
+36.78771667,-1.311026667,1361,Makongeni,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1745.6
+36.78732333,-1.311045,1362,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1751.9
+36.78759167,-1.311495,1363,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1765.2
+36.78688833,-1.311703333,1364,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1764.4
+36.78636333,-1.312008333,1365,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1779.1
+36.78774833,-1.3119,1366,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1758.6
+36.787285,-1.31251,1367,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1750.4
+36.78745,-1.313955,1368,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Wasakaji,1762.9
+36.78757,-1.313515,1369,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1760
+36.78844,-1.311358333,1370,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1752
+36.78861667,-1.312531667,1371,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1765.5
+36.78927833,-1.312055,1372,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1764
+36.78752833,-1.314073333,1373,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1728.2
+36.78918833,-1.309153333,1374,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1745.2
+36.78917833,-1.309088333,1375,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Buhungu,1743.8
+36.78747667,-1.311063333,1376,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1752.7
+36.7887,-1.30915,1377,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1782
+36.78813,-1.30967,1378,Makongeni,Kibera,Flood light,NaN,Community group,N/A,1761.3
+36.78789,-1.310705,1379,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1768.7
+36.77652833,-1.31418,1380,soweto west,Kibera,Flood light,NaN,County government,NA,1773.2
+36.77571667,-1.314691667,1381,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NA,1772.9
+36.77632333,-1.314995,1382,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner) Community group,NA,1744.2
+36.77573,-1.314815,1383,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NA,1745.6
+36.77616667,-1.315298333,1384,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner) Community group,NA,1745.8
+36.77687333,-1.31479,1385,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NA,1746
+36.77704,-1.315363333,1386,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1745.9
+36.78637667,-1.309166667,1387,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1776.4
+36.78737833,-1.309323333,1388,Makongeni,Kibera,Flood light,NaN,County government,Government,1750.1
+36.787285,-1.309401667,1389,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,UNICEF,1749
+36.78922333,-1.30875,1390,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1753.1
+36.78830167,-1.309811667,1391,Makongeni,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1749.2
+36.78696,-1.311801667,1392,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1751.2
+36.786935,-1.314451667,1393,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Government,1739
+36.78771333,-1.313538333,1394,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1775
+36.78847333,-1.312075,1395,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1749.2
+36.78923667,-1.312046667,1396,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1724.5
+36.78738333,-1.314183333,1397,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1710.7
+36.78739833,-1.311495,1398,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Empower kenya,1782.7
+36.78766,-1.311923333,1399,Kambi muru,Kibera,Flood light,NaN,Community group,Goverment,1776.5
+36.788195,-1.311216667,1400,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1742
+36.78855,-1.312056667,1401,Kambi muru,Kibera,Flood light,NaN,Community group,Goverment,1734.3
+36.78883167,-1.312278333,1402,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1734.4
+36.788765,-1.311871667,1403,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1736.1
+36.78957833,-1.312948333,1404,Kambi muru,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1735.5
+36.78640667,-1.311985,1405,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1746.9
+36.78726167,-1.312491667,1406,Kambi muru,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Riziki kenya,1738.2
+36.78745833,-1.31364,1407,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1769
+36.78925,-1.311165,1408,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1686.9
+36.78931333,-1.31266,1409,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1712.7
+36.78982333,-1.312761667,1410,Kambi muru,Kibera,Flood light,NaN,Community group,N/A,1700.3
+36.7732996,-1.30936122,1411,Kianda,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1759
+36.77400389,-1.31074881,1412,Kianda,Kibera,Communal kitchen,NaN,NGO,Nikofeli,1769
+36.7743664,-1.31117808,1413,Kianda,Kibera,Flood light,NaN,County government,Counry government,1775
+36.79887167,-1.317501667,1414,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1731.2
+36.78977222,-1.310772778,1415,Mashimoni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National Youth Service,1770.466667
+36.7893175,-1.3120675,1416,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group NGO,US AID,1731.4
+36.79896,-1.314788333,1417,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1717.8
+36.79883833,-1.315255,1418,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1717.8
+36.79789833,-1.31525,1419,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1704.2
+36.79747167,-1.314081667,1420,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1747.5
+36.797545,-1.31404,1421,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,GOVERNMENT,1728.6
+36.798415,-1.31408,1422,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1727.2
+36.79882833,-1.314308333,1423,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,ATHI WATER,1735.9
+36.798195,-1.31413,1424,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1734.7
+36.79822167,-1.313163333,1425,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,UN HABITAT,1733.8
+36.79849667,-1.31276,1426,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1716.1
+36.799965,-1.315236667,1427,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1685.5
+36.799535,-1.314533333,1428,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1699
+36.79995333,-1.31464,1429,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,UN HABITAT,1698.2
+36.80114167,-1.315115,1430,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1704.9
+36.80193667,-1.315828333,1431,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1764.2
+36.80345,-1.315391667,1432,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1717.2
+36.804875,-1.315173333,1433,soweto east,Kibera,Flood light,NaN,County government,NAIROBI CITY COUNTY,1709.1
+36.79931833,-1.312618333,1434,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1733.5
+36.79889,-1.312625,1435,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1712.3
+36.79868333,-1.312961667,1436,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),GOVERNMENT OF KENYA,1712.4
+36.79332714,-1.313973348,1437,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,French development agency,1690.376057
+36.79084556,-1.311477006,1438,Mashimoni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1707.175809
+36.79060172,-1.311153171,1439,Mashimoni,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1710.219899
+36.78905544,-1.311505833,1440,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1724.917586
+36.78828257,-1.311307024,1441,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,National government,NYS,1721.73028
+36.78966276,-1.31302535,1442,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Zeitun,1714.195201
+36.79190089,-1.314605597,1443,Lindi,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1708.141945
+36.79923333,-1.317766667,1444,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1724.8
+36.79959333,-1.317465,1445,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nys,1724.5
+36.79963167,-1.317528333,1446,Silanga,Kibera,Flood light,NaN,County government,Nairobi County,1716.3
+36.80075833,-1.317466667,1447,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Sellina,1715.9
+36.79923833,-1.316351667,1448,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1705.3
+36.79926,-1.316185,1449,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1717.8
+36.79907667,-1.316356667,1450,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Waititu,1720.8
+36.798805,-1.316971667,1451,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nairobi Rivers Basin Rehabilitation and Restoration Programme,1684.8
+36.79865333,-1.316796667,1452,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1710.5
+36.79803,-1.316428333,1453,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1691.8
+36.77855667,-1.31566,1454,soweto west,Kibera,Flood light,NaN,County government,Esther Passaris,1746.8
+36.79617167,-1.316366667,1455,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1718.7
+36.796515,-1.315701667,1456,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1706.7
+36.77711667,-1.315136667,1457,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,"Transformer No,52",1813.8
+36.77620667,-1.3149,1458,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1949.1
+36.77859333,-1.316403333,1459,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nys,1702.4
+36.778405,-1.316555,1460,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Other,Country govt,1767.6
+36.77869833,-1.316393333,1461,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1782.9
+36.77918667,-1.31622,1462,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1782.6
+36.77876167,-1.316971667,1463,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Other Community group,N/A,1655
+36.77811333,-1.317521667,1464,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nys,1833.4
+36.77613833,-1.317318333,1465,Raila,Kibera,Communal sanitation facility (eg toilet),NaN,Community group National government,Nys,1725.9
+36.774795,-1.316993333,1466,Raila,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Nys,1739.9
+36.77751833,-1.316898333,1467,Raila,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Nys,1737.2
+36.79568667,-1.31472,1468,Silanga,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1692.7
+36.7847,-1.313713333,1469,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Ruth,1722.3
+36.78522167,-1.314435,1470,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1729.5
+36.785945,-1.314303333,1471,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,2013.5
+36.78660333,-1.314623333,1472,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,2016
+36.78593667,-1.3142,1473,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1869.6
+36.78618833,-1.314326667,1474,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Shofco,1869.1
+36.78659833,-1.31456,1475,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1868.2
+36.78629333,-1.314786667,1476,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Collins,1867.1
+36.78660333,-1.315186667,1477,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Ushirikiano,1750
+36.78479833,-1.315665,1478,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1726.5
+36.78390167,-1.314625,1479,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1727.4
+36.78375833,-1.314458333,1480,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1718.5
+36.78309167,-1.314966667,1481,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1734.2
+36.78261333,-1.314585,1482,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Katwekera Tosha,1729.8
+36.78490833,-1.314753333,1483,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1702.2
+36.791715,-1.313376667,1484,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National county,1711.7
+36.792985,-1.312685,1485,Mashimoni,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1752.1
+36.79266833,-1.311778333,1486,Mashimoni,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National government,1745.5
+36.78877667,-1.31195,1487,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National government,1724.9
+36.7901,-1.312331667,1488,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National government,1758.9
+36.79298,-1.314733333,1489,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National government,1721.2
+36.78474147,-1.314017968,1490,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,NGO Community group,NaN,1715
+36.78434199,-1.314339917,1491,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Kibera School For Girls,1719
+36.78522242,-1.31435425,1492,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1703
+36.78568443,-1.314520715,1493,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1703
+36.78536743,-1.314380905,1494,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1709
+36.78547396,-1.314217709,1495,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1710
+36.78548302,-1.314258864,1496,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Mwangi,1700
+36.78545544,-1.314222445,1497,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Macharia,1701
+36.78555912,-1.314388406,1498,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Mwangi,1697
+36.78689696,-1.31479912,1499,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1684
+36.78715747,-1.314722341,1500,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1690
+36.78768838,-1.314830761,1501,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1686
+36.78768637,-1.314935451,1502,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1689
+36.78766357,-1.314921747,1503,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1691
+36.78647049,-1.315802559,1504,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1690
+36.78643771,-1.315871249,1505,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1696
+36.78583673,-1.315652565,1506,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1691
+36.78481171,-1.315844343,1507,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,No one,NaN,1700
+36.78515822,-1.315718279,1508,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Okinda,1702
+36.78420813,-1.315679387,1509,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1704
+36.7838322,-1.314425496,1510,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Asha,1721
+36.78297339,-1.315310835,1511,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1712
+36.7830412,-1.315421057,1512,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1712
+36.78352014,-1.316006617,1513,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Daniel otieno,1698
+36.78251842,-1.316874018,1514,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner) Community group,Taruri Self Help Group,1708
+36.78264004,-1.316798246,1515,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1711
+36.78493333,-1.314085,1516,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1738.7
+36.78585833,-1.314815,1517,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Oliechi,1675.2
+36.785985,-1.314413333,1518,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Micheal Onyango,1737.7
+36.78595,-1.31437,1519,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1743.5
+36.78654833,-1.314996667,1520,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Tosha,1714.6
+36.78326,-1.316173333,1521,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Kyalo,1679.6
+36.78381167,-1.316428333,1522,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1678.9
+36.78280667,-1.3166,1523,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1786.7
+36.783105,-1.31604,1524,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1786.9
+36.77194314,-1.310101021,1525,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,Athi water works,1739
+36.77301628,-1.308969003,1526,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,NGO,Ushirika,1758
+36.77239643,-1.309482353,1527,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National government,1743
+36.77302281,-1.310462868,1528,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Athi river water works,1756
+36.77388741,-1.310762102,1529,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Nicofeli,1755
+36.77432234,-1.31118698,1530,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Individual,1756
+36.7714572,-1.30974668,1531,Kianda,Kibera,Flood light,NaN,County government,County government,1747
+36.79575333,-1.314168333,1532,Laini saba,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1743.7
+36.79479326,-1.31300641,1533,Laini saba,Kibera,Flood light,NaN,County government,NaN,1674
+36.79504667,-1.313191667,1534,Laini saba,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1748.8
+36.795175,-1.313471667,1535,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1748.8
+36.79654333,-1.314903333,1536,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Kwa Njoroge,1622.4
+36.79369833,-1.311996667,1537,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1726.8
+36.79381167,-1.312405,1538,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1726.8
+36.79743898,-1.31515493,1539,Laini saba,Kibera,Flood light,NaN,County government,County Government,1696
+36.79628899,-1.31316235,1540,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1697
+36.797605,-1.315606667,1541,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1760.5
+36.79671667,-1.31492,1542,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/a,1646.4
+36.796745,-1.313326667,1543,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1669.4
+36.79783833,-1.31411,1544,Laini saba,Kibera,Flood light,NaN,County government,Government of Kenya,1716.1
+36.78605167,-1.30833,1545,D.C village,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1760.2
+36.79328667,-1.312606667,1546,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1726.8
+36.79368,-1.311971667,1547,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Voice of Africa,1715.1
+36.79414167,-1.313096667,1548,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1707.1
+36.79506167,-1.313455,1549,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1717.9
+36.79715167,-1.313153333,1550,Laini saba,Kibera,Flood light,NaN,County government,NaN,1713
+36.79732,-1.313648333,1551,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1697.1
+36.78258167,-1.307381667,1552,Toi Market,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1646.1
+36.778155,-1.308673333,1553,Toi Market,Kibera,Flood light,NaN,Community group,County Government,1812
+36.77924333,-1.31061,1554,Toi Market,Kibera,Flood light,NaN,County government,County  Government,1816.2
+36.77965,-1.3068,1555,Toi Market,Kibera,Flood light,NaN,Community group,County Government,1780.8
+36.78106333,-1.30747,1556,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1791.7
+36.78142167,-1.307583333,1557,Toi Market,Kibera,Flood light,NaN,Community group,County  Government,1793.8
+36.78202,-1.306435,1558,Toi Market,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1646.5
+36.78077167,-1.307396667,1559,Toi Market,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1755
+36.77924,-1.307225,1560,Toi Market,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1745.5
+36.77919333,-1.309328333,1561,Toi Market,Kibera,Flood light,NaN,No one,NaN,1768
+36.77869667,-1.31014,1562,Toi Market,Kibera,Flood light,NaN,No one,NaN,1751.7
+36.77792833,-1.309341667,1563,Toi Market,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1738.1
+36.78227667,-1.30733,1564,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1792.1
+36.78177,-1.307178333,1565,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1824.2
+36.78102333,-1.30713,1566,Toi Market,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1787.3
+36.78110167,-1.307376667,1567,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1787.5
+36.77894833,-1.307053333,1568,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1780.2
+36.77919167,-1.307773333,1569,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1757.4
+36.77874667,-1.307988333,1570,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1757
+36.7793,-1.308973333,1571,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1757.2
+36.778225,-1.309698333,1572,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1635.4
+36.77819833,-1.30852,1573,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1762.2
+36.78198167,-1.307078333,1574,Toi Market,Kibera,Flood light,NaN,Community group,N/A,1797.9
+36.77600359,-1.311066952,1575,Ayany estate,Kibera,Communal sanitation facility (eg toilet),NaN,Private company,ENEOS oil company,1762
+36.77496138,-1.311961091,1576,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Joy spring educational centre,1747
+36.79767,-1.314896667,1577,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1723.9
+36.77463343,-1.31182189,1578,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1721
+36.775295,-1.315433333,1579,soweto west,Kibera,Communal sanitation facility (eg toilet),NaN,Other,National Government,1855.7
+36.77963667,-1.318146667,1580,Raila,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1778.4
+36.77755167,-1.316776667,1581,soweto west,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1763.6
+36.77628,-1.316495,1582,soweto east,Kibera,Communal sanitation facility (eg toilet),NaN,No one,National Government,1762.2
+36.77339667,-1.312733333,1583,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Athi Water,1837.6
+36.77253667,-1.309481667,1584,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,National Government,1768.9
+36.77241167,-1.309275,1585,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1768.9
+36.77224333,-1.30862,1586,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1768.8
+36.77221833,-1.309465,1587,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Baba Josh,1755.3
+36.77312,-1.310551667,1588,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Athi Water,1741.5
+36.77310833,-1.310158333,1589,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1741.6
+36.77312,-1.308941667,1590,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,N/A,1799.4
+36.773125,-1.308316667,1591,Kianda,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1795.8
+36.79735833,-1.315211667,1592,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),JAHRE,1692.7
+36.79686833,-1.315113333,1593,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),MAINA,1693.9
+36.79683667,-1.313656667,1594,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1713.9
+36.79771167,-1.312375,1595,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),INDIVIDUAL,1670
+36.78328763,-1.313528507,1596,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1712
+36.78370136,-1.313640783,1597,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,National government,National governments,1705
+36.78376271,-1.313582528,1598,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1718
+36.78221818,-1.314557721,1599,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Tordo,1727
+36.78147152,-1.314626411,1600,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1740
+36.78153933,-1.314945552,1601,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Bushooo,1730
+36.78214249,-1.315642255,1602,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Rafael,1726
+36.78073383,-1.316088717,1603,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1721
+36.78036821,-1.315657301,1604,Gatwekera,Kibera,Flood light,NaN,Individual (eg business owner),Ken Odede,1731
+36.78068044,-1.315164194,1605,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1742
+36.77916641,-1.316009383,1606,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,No one,N/A,1731
+36.77955584,-1.315540164,1607,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1732
+36.79206763,-1.312632973,1608,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Kwa bridge,1699.399546
+36.79555787,-1.314618601,1609,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Markas,1690.881654
+36.79371667,-1.311886667,1610,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1715.3
+36.79375,-1.311975,1611,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1716
+36.79381667,-1.312325,1612,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1714.9
+36.79442667,-1.313028333,1613,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1700
+36.79466333,-1.312978333,1614,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1708.1
+36.79478667,-1.313288333,1615,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NYS,1679.5
+36.79503833,-1.31342,1616,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1679.6
+36.79449167,-1.313438333,1617,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,KDl,1698.8
+36.79426167,-1.313396667,1618,Laini saba,Kibera,Juakali/ artisan shade / garage,NaN,Missing Values,NaN,1698.8
+36.797455,-1.315031667,1619,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1736.4
+36.79647333,-1.31399,1620,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1740.5
+36.79689333,-1.314025,1621,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NYS,1733.9
+36.79741833,-1.31311,1622,Laini saba,Kibera,Flood light,NaN,County government,County,1730.1
+36.79742833,-1.313271667,1623,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1734
+36.7974,-1.313016667,1624,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Nys,1726.3
+36.79736333,-1.313525,1625,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1724.9
+36.79786167,-1.31432,1626,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1724.9
+36.79852,-1.312775,1627,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),5,1711.4
+36.79834333,-1.312641667,1628,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Nys,1711.7
+36.79818667,-1.312895,1629,Laini saba,Kibera,Communal kitchen,NaN,Community group,Umande Trust,1712.2
+36.79560833,-1.313703333,1630,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1713.8
+36.795915,-1.313848333,1631,Laini saba,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1713.3
+36.79114,-1.315868333,1632,Lindi,Kibera,Water point,NaN,Individual (eg business owner),John,1744.6
+36.79425667,-1.318123333,1633,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,None,1899.7
+36.79169,-1.315025,1634,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,No one,None,1733
+36.79174037,-1.314954815,1635,Lindi,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,Savo Foundation,1715.411111
+36.78313667,-1.31368,1636,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1751.2
+36.78314167,-1.31364,1637,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1753.2
+36.78366,-1.313543333,1638,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1753.1
+36.78333333,-1.314361667,1639,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Judith  Awuor,1753
+36.78112667,-1.31666,1640,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1744.4
+36.77914167,-1.315951667,1641,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1749.5
+36.77879,-1.31654,1642,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1749.1
+36.77982667,-1.315508333,1643,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1714.5
+36.78184667,-1.315248333,1644,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),N/A,1744.5
+36.78291333,-1.314065,1645,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1723.1
+36.782055,-1.314648333,1646,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1743.1
+36.78153167,-1.314338333,1647,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1743.2
+36.782035,-1.31531,1648,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),Everlyne Athieno,1784.8
+36.780535,-1.315568333,1649,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1720.4
+36.78034667,-1.315686667,1650,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1715.8
+36.780835,-1.314973333,1651,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1707.9
+36.779175,-1.31612,1652,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Government,1711.9
+36.77901167,-1.316383333,1653,Gatwekera,Kibera,Communal kitchen,NaN,Community group,NaN,1719.1
+36.778955,-1.316401667,1654,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Community group,NaN,1719.1
+36.78005167,-1.315481667,1655,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1746.4
+36.78001833,-1.315418333,1656,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,National government,Government,1746.5
+36.780055,-1.31553,1657,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1746.3
+36.78193,-1.3152,1658,Gatwekera,Kibera,Communal sanitation facility (eg toilet),NaN,Individual (eg business owner),NaN,1753
